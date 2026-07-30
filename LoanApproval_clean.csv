@@ -1,0 +1,2001 @@
+name,city,income,credit_score,loan_amount,years_employed,points,loan_approved,loan_approved_label
+Allison Hill,East Jill,113810,389,39698,27,50.0,False,Rejected
+Brandon Hall,New Jamesside,44592,729,15446,28,55.0,False,Rejected
+Rhonda Smith,Lake Roberto,33278,584,11189,13,45.0,False,Rejected
+Gabrielle Davis,West Melanieview,127196,344,48823,29,50.0,False,Rejected
+Valerie Gray,Mariastad,66048,496,47174,4,25.0,False,Rejected
+Darren Roberts,Port Jesseville,62098,689,19217,29,65.0,True,Approved
+Holly Wood,Lake Joseph,59256,373,40920,40,35.0,False,Rejected
+Nicholas Martin,Nelsonside,48289,524,45866,20,25.0,False,Rejected
+Patty Perez,Port Leslieview,126530,367,14826,36,55.0,False,Rejected
+Emily Rios,Wilkersonmouth,43434,446,18359,8,20.0,False,Rejected
+Justin Baker,Hurstfurt,118696,670,15373,8,75.0,True,Approved
+Ann Williams,East Courtneychester,127080,365,26216,24,55.0,False,Rejected
+Julie King,Lake Jenniferside,146939,573,43006,21,50.0,False,Rejected
+Jeffrey Chavez,Teresaburgh,101482,819,7973,40,100.0,True,Approved
+Mark Lynch,West Kathryn,41395,843,1037,38,80.0,True,Approved
+Alec Hickman,Johnbury,107397,380,6613,31,60.0,True,Approved
+Vanessa Patel,East Donna,85302,469,18370,33,50.0,False,Rejected
+Jenny Lewis,Lake Larry,34165,682,29711,33,50.0,False,Rejected
+David Brown,New Angelashire,33905,525,1471,4,30.0,False,Rejected
+Amy Jones,Port Markhaven,42280,543,19250,31,25.0,False,Rejected
+Carlos Walls,Sanchezfort,58657,716,13478,6,65.0,True,Approved
+Jeffrey Henderson,Shieldston,60495,400,4972,25,50.0,False,Rejected
+Rebecca Rodriguez,East Amanda,96237,443,28648,11,45.0,False,Rejected
+David Leblanc,Mortonside,108907,400,4315,34,60.0,True,Approved
+Tracy House,East Richard,33478,792,15008,25,60.0,True,Approved
+Carmen Smith,Bakermouth,103563,592,28722,35,65.0,True,Approved
+Katelyn Lee,North Beth,56062,362,21552,3,30.0,False,Rejected
+John Calhoun,North Susan,123850,382,13178,4,45.0,False,Rejected
+Megan Young,New Johnton,115181,383,28474,37,55.0,False,Rejected
+Emily Green,Johnfurt,121924,434,45019,19,50.0,False,Rejected
+Timothy Walls,South Christineshire,101426,402,5801,34,60.0,True,Approved
+Derek Mahoney,East Mikeburgh,84987,748,36600,19,75.0,True,Approved
+Victoria Valdez,Lake Lisaport,58893,406,9800,16,45.0,False,Rejected
+Brian Tran,Juanborough,88878,651,14342,40,65.0,True,Approved
+Kathy King,North Cynthiaview,107236,345,1232,21,60.0,True,Approved
+Mandy Green,Arnoldchester,66463,309,8331,4,35.0,False,Rejected
+Melissa Hernandez,Port Mikeside,136093,451,29166,8,50.0,False,Rejected
+Jacob Fitzpatrick,West Jasonbury,143940,405,24178,35,55.0,False,Rejected
+Jennifer Oliver,East Michelle,30851,481,28020,1,10.0,False,Rejected
+Tim Patton,Phambury,129458,573,11433,6,55.0,False,Rejected
+Andrew Ruiz,Port Samantha,135620,658,21000,14,70.0,True,Approved
+Matthew Ross,Michelleview,50926,659,43040,32,50.0,False,Rejected
+William Herrera,North Natalieview,121506,482,39049,16,50.0,False,Rejected
+Kyle Reed,Samuelhaven,85392,418,26244,36,45.0,False,Rejected
+Andrew Graham,West Ryan,74597,638,41839,20,50.0,False,Rejected
+Belinda Mccullough,Elizabethmouth,66421,712,46692,18,60.0,True,Approved
+Cheryl Ortega,Byrdburgh,50379,608,27612,35,50.0,False,Rejected
+Elizabeth Clark,Stevenmouth,58221,518,34500,30,35.0,False,Rejected
+Toni Fitzgerald,West Zacharymouth,130072,395,16392,19,55.0,False,Rejected
+Curtis Johnson,South Cheryl,74118,374,30846,26,35.0,False,Rejected
+Laura Higgins,Snyderbury,43396,451,43995,0,10.0,False,Rejected
+Shannon Mcclure,Robinsonhaven,42156,775,4291,35,70.0,True,Approved
+Ryan Bryant,Contrerasside,79797,624,30004,39,60.0,True,Approved
+Stephanie Simmons,Merrittfort,42676,760,17986,15,60.0,True,Approved
+Destiny Strickland,Simsview,77052,750,6077,18,90.0,True,Approved
+George Orozco,East Edwardfurt,141082,456,47295,13,50.0,False,Rejected
+Jason Daniels,Brownchester,75082,698,39278,1,50.0,False,Rejected
+Pamela James,West Kennethfurt,109131,729,36272,34,75.0,True,Approved
+Stephanie Freeman,Ryantown,64671,698,23028,25,65.0,True,Approved
+Sara Calhoun,South Brittanytown,135791,385,43123,27,50.0,False,Rejected
+Joel Williams,Murphymouth,35695,634,23118,24,40.0,False,Rejected
+Trevor Fisher,South Andrewside,125647,353,23935,14,55.0,False,Rejected
+Rachael Pearson,East Jamestown,90217,456,16633,8,45.0,False,Rejected
+Brian Gould,Lyonsstad,100284,471,40707,38,45.0,False,Rejected
+Michelle Strickland,West Daniel,46361,326,21444,36,25.0,False,Rejected
+Tina Sanders,North Brittany,79615,548,7678,19,55.0,False,Rejected
+Lindsay Martinez,West Amandastad,40328,370,34158,21,25.0,False,Rejected
+Jason Henry,Yumouth,102357,456,29540,11,50.0,False,Rejected
+Tracie Nelson,Marshallshire,68427,574,22122,15,40.0,False,Rejected
+Angelica Keith,Port Steven,138711,688,23046,1,65.0,True,Approved
+Frederick Freeman MD,Matthewview,112397,310,34857,12,50.0,False,Rejected
+Nathan Freeman,Lake Thomas,111070,802,30371,1,75.0,True,Approved
+Daniel Holt,Elizabethstad,146057,784,37272,33,85.0,True,Approved
+Zachary Pierce,Jacquelineview,142945,613,17475,14,70.0,True,Approved
+Corey Wilson,East Javier,77400,795,19120,37,85.0,True,Approved
+Kelly Campbell,Port Jamesbury,105674,669,12759,19,70.0,True,Approved
+Joseph Hill,New Kellyberg,55203,802,7723,0,70.0,True,Approved
+Julie Alexander,North Johnny,122349,789,8476,4,85.0,True,Approved
+Benjamin Soto,East Edwardshire,39116,611,6582,15,50.0,False,Rejected
+Phillip Obrien,Port Alexandra,36006,761,30014,19,60.0,True,Approved
+Wanda Torres,New Susanville,116673,512,41993,13,50.0,False,Rejected
+Brad Allen,East Aaronmouth,59871,781,20087,2,65.0,True,Approved
+Michael Warner,Jonesbury,131327,570,41963,37,50.0,False,Rejected
+Taylor Coleman,Lake Edward,67930,572,10321,4,35.0,False,Rejected
+Ricky Larson,Scottmouth,40458,611,46857,25,40.0,False,Rejected
+Kathryn Snyder,New Billchester,142108,630,40564,16,65.0,True,Approved
+Darryl Craig,Port Emilyview,60512,341,12481,30,45.0,False,Rejected
+Jessica Ramirez,Waltersfort,143571,393,31802,22,55.0,False,Rejected
+Frank Garcia,West Robert,43238,807,19888,25,65.0,True,Approved
+Krista Gibson,Johnnyville,79823,713,34724,0,50.0,False,Rejected
+Kimberly Gutierrez,New Michael,66434,810,41986,28,75.0,True,Approved
+Christina Dunn,Samuelfort,89429,424,2891,40,55.0,False,Rejected
+Cynthia Moore,New Rickybury,113320,416,31241,7,45.0,False,Rejected
+Brittany Cantu,Williamview,139328,725,32621,30,80.0,True,Approved
+Juan Reyes,Port Chad,77819,724,23274,32,70.0,True,Approved
+Aaron Barber,Grimesmouth,51319,795,23618,21,70.0,True,Approved
+Kimberly Gibson,Mollybury,78520,692,16306,26,75.0,True,Approved
+Patrick Thornton,Hughesberg,76566,807,3426,8,90.0,True,Approved
+Leslie Kane,Garciamouth,57460,315,48346,9,30.0,False,Rejected
+Matthew Moore,Harringtonview,117841,646,41845,25,65.0,True,Approved
+Sarah Phelps,Finleyfort,64993,336,41465,4,25.0,False,Rejected
+Michael Mitchell,Lake Christopher,121988,400,42533,6,45.0,False,Rejected
+Michael Berger,West Lauraport,119593,667,25565,27,70.0,True,Approved
+Joseph Knight,East Gregory,114939,691,41613,15,75.0,True,Approved
+Mr. David Little MD,Port Stevenport,39358,461,5840,28,35.0,False,Rejected
+Victoria Evans,Vaughnmouth,109840,609,14055,24,70.0,True,Approved
+Ashley James,Baileyport,113227,322,44137,25,50.0,False,Rejected
+Keith Jennings,New Julieport,52431,535,40784,22,35.0,False,Rejected
+Connor King,Lake Colton,100010,340,21246,28,55.0,False,Rejected
+Jacob Anderson,Markchester,125568,479,14159,8,50.0,False,Rejected
+Sherri Diaz,Mariaview,62087,793,20342,21,75.0,True,Approved
+Julie Jones,Port Erica,51417,706,37524,23,60.0,True,Approved
+James Baker,South Miguelview,90589,690,42847,23,65.0,True,Approved
+David Johnson,Rosebury,79735,364,42641,29,40.0,False,Rejected
+Elizabeth Ortiz,North Sophia,65382,611,33284,7,45.0,False,Rejected
+Stephen Taylor,Watsonside,113886,729,39491,9,70.0,True,Approved
+Mary Bass,Crosbyview,120198,333,46238,23,50.0,False,Rejected
+Jeremy Young,Corystad,103000,667,4968,25,75.0,True,Approved
+Walter Rush,Davisborough,58785,321,4314,21,50.0,False,Rejected
+Cameron Cunningham,Port Kathyborough,119733,521,16269,21,55.0,False,Rejected
+Rachel Carlson,Micheleberg,72504,433,36403,16,35.0,False,Rejected
+Ashley Delacruz,North Michael,140474,543,39591,20,50.0,False,Rejected
+Derek Martinez,Foxland,130704,787,30378,23,90.0,True,Approved
+Ashley Gordon,Lake Kristahaven,131711,608,31018,1,55.0,False,Rejected
+John Morales,South Jennifermouth,37331,375,6294,20,35.0,False,Rejected
+Ana Hill,Oscarhaven,60021,601,30734,32,50.0,False,Rejected
+Annette Miles,South Shannon,137715,533,28119,21,55.0,False,Rejected
+Jennifer Blair,Ronaldview,34207,683,11003,30,55.0,False,Rejected
+Ronald Davis,Lake Joanneberg,135518,361,39434,35,50.0,False,Rejected
+Meagan Jenkins,Parrishton,71347,594,40348,19,50.0,False,Rejected
+Kenneth Lewis,Walkerville,82581,658,37455,23,55.0,False,Rejected
+Donald Perez,Bruceside,65093,326,40911,17,35.0,False,Rejected
+Donald Farmer,Michaelburgh,38675,446,38114,25,25.0,False,Rejected
+Patrick Bonilla,Lake Alyssafurt,57653,729,30730,21,60.0,True,Approved
+Eric Nguyen,North Ericton,149686,383,18832,28,55.0,False,Rejected
+Karla Ramos,Jasonhaven,104341,416,23621,27,55.0,False,Rejected
+Michael Watkins,Brandonfurt,144867,356,1503,13,60.0,True,Approved
+Daniel Taylor,Keithville,124098,307,33596,27,50.0,False,Rejected
+James Padilla,Charleston,71245,746,2228,29,85.0,True,Approved
+Shannon Johnston,Mckinneychester,57869,596,8548,25,60.0,True,Approved
+Frederick Solis,Collierstad,115909,390,29620,6,45.0,False,Rejected
+Kevin Warren,Harrellmouth,95435,526,22827,10,50.0,False,Rejected
+Mark Schmidt,Port Michael,81856,451,16484,6,45.0,False,Rejected
+Craig Morrison,East Stephaniefort,145957,775,37944,37,85.0,True,Approved
+Thomas Cunningham,Michellemouth,149871,454,29820,4,45.0,False,Rejected
+Mark Hogan,West Williamport,114259,772,30616,2,75.0,True,Approved
+Ronald Jones,New Brookefurt,90142,773,39032,35,75.0,True,Approved
+Nancy Williams,West Cassidy,48726,813,10886,3,65.0,True,Approved
+Robert Monroe,New Debbieton,64718,553,47374,28,35.0,False,Rejected
+Kelly Bishop MD,Paulmouth,48301,353,42345,21,25.0,False,Rejected
+Brandon Gregory,Johnathanberg,62325,641,6341,37,60.0,True,Approved
+Sydney Collins,Andersonland,127647,617,37629,24,65.0,True,Approved
+Erin Anderson,Lake Ellenhaven,103579,670,2194,23,85.0,True,Approved
+Trevor Peterson,Leeberg,100644,458,6057,18,60.0,True,Approved
+Ashley Wise,Lake Matthewberg,64438,685,11109,10,70.0,True,Approved
+Michael Weber,Lake Samuel,127912,720,24874,15,80.0,True,Approved
+Lisa Goodwin,Youngbury,106622,616,31737,12,65.0,True,Approved
+Travis Joyce,Hammondfurt,86155,814,35567,26,80.0,True,Approved
+Ruth Solis,Port John,147679,792,25327,35,90.0,True,Approved
+Michelle Black,West Christopherburgh,106484,579,30446,32,50.0,False,Rejected
+Jeffrey Potts,Port Shannon,82350,657,2747,26,70.0,True,Approved
+Jonathan Young,West Jeffreymouth,77447,401,47838,21,40.0,False,Rejected
+Brenda Mitchell,Hortonberg,58746,780,30399,39,70.0,True,Approved
+Bobby Scott,New Shelby,48131,840,28738,7,60.0,True,Approved
+Cynthia Martinez,South Danielle,96784,768,5116,7,85.0,True,Approved
+Kathryn Herrera,Lake Douglas,94686,739,1102,39,80.0,True,Approved
+Kenneth Lopez,New Theresaland,41915,838,36656,32,65.0,True,Approved
+Katie Smith,Williamsfurt,129061,682,17623,1,65.0,True,Approved
+Austin Allen,Port Bonniemouth,36175,436,3905,22,35.0,False,Rejected
+Robin Thompson,Pollardfort,142866,486,9837,4,50.0,False,Rejected
+Terri Johnson,North Kylie,44371,342,21682,19,25.0,False,Rejected
+Virginia Daniels,Benjaminborough,50033,592,24394,3,40.0,False,Rejected
+Evelyn Martinez,Samuelfurt,112240,750,26339,21,90.0,True,Approved
+Kathleen Jimenez,Lauriechester,50969,380,29220,38,35.0,False,Rejected
+Catherine Carter MD,Donnaport,133819,756,40493,27,85.0,True,Approved
+Jeremy West,Christinachester,119192,581,42908,3,55.0,False,Rejected
+Mark Cox,North Douglas,85333,748,3280,8,85.0,True,Approved
+Richard Diaz,Herrington,108172,457,45503,28,45.0,False,Rejected
+Jacqueline Hines,New Michael,38326,621,43569,17,40.0,False,Rejected
+Brian Fitzgerald,Holmesside,80432,420,18155,16,50.0,False,Rejected
+Cindy Carr,Gonzalezberg,80019,375,30625,11,45.0,False,Rejected
+Jill Miller,Elizabethland,108104,597,20657,10,70.0,True,Approved
+Tammy Little,Williamville,91348,505,10101,15,50.0,False,Rejected
+Allison Spencer,Tannerside,99352,432,41104,5,35.0,False,Rejected
+James Love,Foxchester,62953,375,9213,20,45.0,False,Rejected
+Joanna Frazier,Davidside,102512,486,9456,27,60.0,True,Approved
+Sheena Guerra,West Fred,142824,630,47486,14,65.0,True,Approved
+Todd Jacobson,West Jamesside,31504,581,9203,40,45.0,False,Rejected
+Joseph Shaw,New Shelly,119166,457,12219,39,55.0,False,Rejected
+Lisa Kirby,Port Michelleland,124466,346,43038,36,50.0,False,Rejected
+Daniel Armstrong,South Pamelaside,45014,596,43068,19,40.0,False,Rejected
+Dr. Michael Evans,Lake Brianmouth,119353,725,32735,29,75.0,True,Approved
+Lawrence Edwards,Jessicastad,145970,708,9569,23,85.0,True,Approved
+Ashley Allen,West Shannonberg,100381,399,4316,18,60.0,True,Approved
+Sharon Barnes,Port Mark,128419,620,13440,10,70.0,True,Approved
+Mr. Jonathan Parker Jr.,Wagnerbury,64973,520,39230,22,35.0,False,Rejected
+Douglas Harper,Mitchelltown,130741,410,29241,8,50.0,False,Rejected
+Monica Gallagher,Brandonton,114012,499,24758,35,55.0,False,Rejected
+James Cole,Marciaville,74587,431,7336,25,50.0,False,Rejected
+William Grant,Kariborough,44621,821,27305,32,65.0,True,Approved
+Andrew Reeves,Stoneberg,68469,827,10160,20,85.0,True,Approved
+Emily Long,Brittneyhaven,86985,821,35887,31,80.0,True,Approved
+Elizabeth Cabrera,Markville,50730,726,39253,19,60.0,True,Approved
+Molly Watts,New Thomasshire,89470,533,48277,3,30.0,False,Rejected
+Carolyn Fuller,Hernandezbury,30425,332,38523,7,20.0,False,Rejected
+Jeremy Barnes,Vaughnchester,124646,813,41073,30,90.0,True,Approved
+Nancy Brown,New Jared,144799,632,44399,30,65.0,True,Approved
+Emily Thompson,Amyview,124329,795,13600,15,90.0,True,Approved
+Edwin David,Kellieborough,64522,800,21777,30,80.0,True,Approved
+Timothy Pope,Keithshire,95612,688,26856,22,70.0,True,Approved
+Regina Roberts,Stephanieland,129871,654,29991,16,70.0,True,Approved
+Cindy Clayton,Sarahview,53416,440,8158,39,45.0,False,Rejected
+Cynthia Williams,Lake Jesse,96542,402,28086,21,45.0,False,Rejected
+Ashlee Townsend,New Tiffanyburgh,149619,716,43787,30,75.0,True,Approved
+Curtis Maynard,Justinton,43947,391,43749,36,25.0,False,Rejected
+Parker Jefferson,East Robertburgh,144100,337,27017,31,55.0,False,Rejected
+Paul Brennan,Nancytown,111959,605,38221,38,65.0,True,Approved
+William Mitchell,Smallberg,69117,816,31672,17,75.0,True,Approved
+Brian Martin,Wongburgh,140319,314,49274,21,50.0,False,Rejected
+Laura Todd,New Melissa,113748,715,29029,32,75.0,True,Approved
+James Davis,South Marcus,96540,554,1447,16,55.0,False,Rejected
+Jeremy Adams,Kevinshire,109818,311,18141,23,55.0,False,Rejected
+Amy Wilson,Erikhaven,56071,618,46238,7,45.0,False,Rejected
+Teresa Richardson,East Susan,50032,789,11039,29,80.0,True,Approved
+Lisa Perry,Toddborough,79009,553,45586,38,40.0,False,Rejected
+Angela Griffin,Christianshire,129943,414,5047,35,60.0,True,Approved
+Christina Herrera,West Melissa,51174,752,8617,13,80.0,True,Approved
+Katherine Nolan,Stokesmouth,100697,435,34636,26,50.0,False,Rejected
+Anthony Ford,Jenniferfurt,132056,560,1197,13,60.0,True,Approved
+Amber Cooper,New Virginialand,99514,783,3079,18,90.0,True,Approved
+Randy Cannon,Brooksfurt,30074,759,25739,24,60.0,True,Approved
+Victor Baxter,Lake Michelle,108504,421,12696,34,55.0,False,Rejected
+Cameron Irwin,Port Andrewport,72487,774,45138,34,70.0,True,Approved
+James Hall,Reedview,94042,493,48515,7,35.0,False,Rejected
+Matthew Mendez,East Jamieville,32552,334,30257,38,25.0,False,Rejected
+Shelby Sanchez,South Scottside,44662,522,4699,8,30.0,False,Rejected
+Donna Cabrera,Barbaramouth,77576,542,20776,9,40.0,False,Rejected
+Ms. Jennifer Hill,Lake Erika,145175,807,4072,22,100.0,True,Approved
+Megan Floyd,Heatherchester,139008,452,20653,24,55.0,False,Rejected
+Joshua Allen,West Meredith,135745,447,31344,3,45.0,False,Rejected
+Tracy Grant,South John,70306,508,22644,5,35.0,False,Rejected
+Sarah Davis,North Joseph,61385,340,5769,12,50.0,False,Rejected
+Laurie Powers,South Jason,37592,640,20869,0,25.0,False,Rejected
+Colton Figueroa,Rochaborough,61571,706,16684,35,65.0,True,Approved
+Douglas Owens,Kylestad,145082,825,33589,29,95.0,True,Approved
+William Harrison,Robinstad,104364,620,28127,2,55.0,False,Rejected
+Connie Thomas,Angelashire,40322,727,20345,9,45.0,False,Rejected
+David Hudson,South Andrea,41226,645,17864,31,40.0,False,Rejected
+Maria Henry,Lake Laura,125932,473,10172,34,60.0,True,Approved
+Thomas Weaver DDS,New Arthurland,93699,349,1418,26,55.0,False,Rejected
+Mark Jones,North Jeffery,136957,766,25458,3,80.0,True,Approved
+Mary Jensen,Hopkinstown,39071,306,35879,35,25.0,False,Rejected
+Alan Bowen,Andrechester,129693,483,8013,6,55.0,False,Rejected
+Daisy Harvey,Lisaview,99822,706,6178,23,80.0,True,Approved
+Judy Sanchez,West Gabriella,130379,382,43843,2,40.0,False,Rejected
+James Tran,Lake Albertburgh,46483,384,33758,27,25.0,False,Rejected
+Erin Madden,New Samanthabury,46828,516,46369,36,25.0,False,Rejected
+Anthony Jones,Rachelshire,116474,333,12754,20,55.0,False,Rejected
+Daniel Thomas,Hickmanport,92296,466,37959,15,40.0,False,Rejected
+Sarah Rhodes,Patrickberg,102063,380,33819,22,50.0,False,Rejected
+Jeffrey Roberson,Cassiefurt,51643,634,2941,40,65.0,True,Approved
+Willie Henry,Angelafurt,64741,742,13172,37,80.0,True,Approved
+Angelica Montgomery,Lake Charles,99163,574,11107,24,50.0,False,Rejected
+Madison Singh,Michaelland,144351,305,21202,28,55.0,False,Rejected
+Derrick Anderson,South Shane,109507,824,27741,6,85.0,True,Approved
+Hector Davis,Michelletown,85461,598,28119,24,60.0,True,Approved
+Misty Hansen,New Adriana,57760,689,12108,8,65.0,True,Approved
+Derrick Thomas,South Joshua,100686,606,32734,4,55.0,False,Rejected
+Tony Le,Wheelerborough,128994,768,8010,8,90.0,True,Approved
+Travis Cook,Brockmouth,125673,750,22937,27,90.0,True,Approved
+Shannon Mccann,West Malik,120422,505,32392,20,50.0,False,Rejected
+James Flores,Faulknerbury,56365,633,25645,17,50.0,False,Rejected
+Jenna Wilson,New Wendy,123447,484,45676,35,50.0,False,Rejected
+Nicholas Hahn,South Lauren,70857,370,27813,31,40.0,False,Rejected
+Eric King,Lake Rodney,82296,686,5847,28,80.0,True,Approved
+Karen Morales DDS,Stephensstad,118039,849,39916,40,90.0,True,Approved
+Ashley Wright,Gabrielton,115180,709,22731,27,80.0,True,Approved
+Brett Walker,South Neil,78944,774,45535,37,75.0,True,Approved
+Brittany Cuevas,Garciachester,87422,387,8606,9,50.0,False,Rejected
+Grant Mueller,Baileyville,147914,748,48316,28,85.0,True,Approved
+Eric Patrick,North Melindaville,97839,468,49528,15,40.0,False,Rejected
+Kristen Rivera,Mullenbury,89177,714,42271,11,65.0,True,Approved
+Matthew Foster,South Brittany,45860,698,1291,13,65.0,True,Approved
+Paul Stokes,New Cristianside,62493,491,24972,20,40.0,False,Rejected
+Brian Lambert,Rosemouth,59451,697,41062,25,60.0,True,Approved
+Hannah Bruce,Port Emily,38392,604,41270,37,40.0,False,Rejected
+Cesar Wilson,Darylstad,74313,444,34477,24,35.0,False,Rejected
+Chad Reyes,South Cynthia,32757,477,37366,10,25.0,False,Rejected
+Charles Edwards MD,Port Michaeltown,107110,796,9947,12,95.0,True,Approved
+Tracey Wagner,Ortizfort,102603,725,47539,28,70.0,True,Approved
+Bradley Johnson DDS,Antoniobury,60161,850,19918,10,80.0,True,Approved
+Krystal Barton,Dunnville,107128,416,18556,34,55.0,False,Rejected
+Holly Carson,Port Jenniferside,58864,523,28862,6,30.0,False,Rejected
+Martha Wright,South Joseland,30942,749,8693,15,65.0,True,Approved
+Oscar Norris,Martinberg,39305,511,14562,3,20.0,False,Rejected
+Kim Carlson,West Tiffany,122778,599,19961,36,70.0,True,Approved
+Scott Duke,East Sydneychester,112719,360,19174,8,50.0,False,Rejected
+Brandi Thomas,Mariafurt,37716,801,10317,36,70.0,True,Approved
+Lori Brooks,Lake Lauraland,60007,712,34791,17,60.0,True,Approved
+Sherry Gibson,Murphytown,38834,395,48902,29,25.0,False,Rejected
+Melissa Horn,Robinsonchester,148675,516,33421,17,55.0,False,Rejected
+Drew Kelley,New Melissa,34117,651,45731,3,30.0,False,Rejected
+Mark Copeland,North Sarahburgh,142674,751,30918,0,75.0,True,Approved
+Jessica Forbes DVM,Erikview,73309,395,43899,23,35.0,False,Rejected
+Jacob Mckee,North Randy,39287,612,48578,14,40.0,False,Rejected
+Brandon Davis,South Christian,97391,531,35042,28,45.0,False,Rejected
+Michael Montoya,Bensonfort,61195,372,16004,24,40.0,False,Rejected
+Robert Garcia,Nicoleberg,66500,691,9725,9,65.0,True,Approved
+Justin Bishop,South Michael,117684,518,42161,9,45.0,False,Rejected
+Lisa Ramos,North Peggy,93624,443,9071,37,55.0,False,Rejected
+Heather Jordan,East Joshua,58080,386,17263,35,40.0,False,Rejected
+Michelle Mitchell,Port Melanieport,100678,510,34931,38,50.0,False,Rejected
+Nicole Phillips,Port Rachaelbury,47342,806,26289,7,60.0,True,Approved
+Alexandria Ward,Davidshire,124811,730,24947,34,80.0,True,Approved
+Pamela Best,North Brendatown,145655,568,15138,2,45.0,False,Rejected
+Tiffany Sanders,Courtneyhaven,104847,725,28759,25,75.0,True,Approved
+Joshua Jensen,Christopherland,105525,823,14316,9,90.0,True,Approved
+Jeanette Walters,West Hollybury,91953,359,17022,5,45.0,False,Rejected
+Audrey Salazar,West Elizabethburgh,61850,422,1830,8,45.0,False,Rejected
+Carla Benton,Garyberg,132841,575,49033,7,45.0,False,Rejected
+Alyssa Roman,Alexandriaview,91993,378,33515,29,45.0,False,Rejected
+Amy Villarreal,West Eric,135840,405,38611,7,45.0,False,Rejected
+Jordan Williams,East Brandonstad,83354,692,10835,11,75.0,True,Approved
+Shannon Tran,Walkerbury,54957,726,48204,20,60.0,True,Approved
+Blake Watson,East Jeffreyhaven,42363,347,27275,4,15.0,False,Rejected
+Sharon Ayala,Markside,42704,767,1522,23,75.0,True,Approved
+Justin Torres,South Micheal,116374,805,13807,34,95.0,True,Approved
+Danielle Smith,Johnsonside,86498,654,42677,0,40.0,False,Rejected
+April Sandoval,Daltonhaven,76438,543,28513,31,45.0,False,Rejected
+Valerie Thomas,Christopherbury,85519,832,28070,23,85.0,True,Approved
+Paul Carpenter,Lake Lori,83883,376,39790,36,40.0,False,Rejected
+Matthew Anderson,Josemouth,91213,702,46922,20,65.0,True,Approved
+Dillon Jones,East Kimberly,143224,411,11184,6,55.0,False,Rejected
+John Russell,Tamiborough,125561,762,21205,29,90.0,True,Approved
+Bryan Moore,Margaretton,37100,520,22482,9,20.0,False,Rejected
+David Kelly,Lake Kentburgh,118259,331,27502,28,55.0,False,Rejected
+Krista Davis,Port Lauraville,115649,312,5041,14,60.0,True,Approved
+Rodney Watson,New Brendaland,114696,322,5225,12,60.0,True,Approved
+Jill Anderson,Davidmouth,42899,351,12009,36,30.0,False,Rejected
+Nathaniel Crawford,Vegaburgh,37944,662,15071,11,45.0,False,Rejected
+Jeremy Hernandez,Lake Kenneth,82772,721,37089,30,65.0,True,Approved
+Douglas Taylor,Lake Nicole,125448,838,17328,40,95.0,True,Approved
+Kimberly Smith MD,Timothyfort,74473,652,38070,32,50.0,False,Rejected
+Devin Johnson,North Paula,134935,587,4839,30,75.0,True,Approved
+Pamela Key,North John,142941,546,18467,34,55.0,False,Rejected
+Sylvia Brown,New Meghan,44322,697,24252,11,50.0,False,Rejected
+Kevin Drake,Robintown,62591,660,38201,36,50.0,False,Rejected
+Travis Copeland,Weaverburgh,55112,802,3487,5,85.0,True,Approved
+Kyle Smith,Smithborough,54931,433,23331,11,35.0,False,Rejected
+Sarah Morris,East Brendaberg,100292,413,35491,23,50.0,False,Rejected
+Jacqueline Mcmahon,Willismouth,88800,609,22142,8,60.0,True,Approved
+Morgan Kim,Banksburgh,48373,665,15630,37,45.0,False,Rejected
+Jamie Gross,Davidtown,85296,700,38190,2,55.0,False,Rejected
+Evan Lamb,Lake Ariana,54050,808,10217,21,85.0,True,Approved
+Cynthia Haas,Lake Nicole,66509,390,47462,40,35.0,False,Rejected
+Gabriela Smith,East Heather,90637,658,17820,6,60.0,True,Approved
+Amber Kim,Costachester,62742,804,25819,22,75.0,True,Approved
+Ashley Mendoza,East Shannon,144620,334,20327,1,40.0,False,Rejected
+Trevor Jones,South Eugene,39880,376,36851,5,20.0,False,Rejected
+William Barry,South Sherriburgh,88082,744,11295,3,75.0,True,Approved
+Daniel Lee,Donnaport,135909,543,7285,3,50.0,False,Rejected
+Joshua Henry,West Adamland,142898,601,44386,40,65.0,True,Approved
+Christina Johnson,Lake Kelly,142193,383,32035,7,50.0,False,Rejected
+James Burns,Christopherside,102132,696,13116,23,80.0,True,Approved
+Jaclyn Griffin,Scottview,42833,531,18600,36,25.0,False,Rejected
+Paul Contreras,Lake Mauriceside,36630,723,39648,14,50.0,False,Rejected
+Sara Cardenas,Sheppardfort,115477,541,32212,19,50.0,False,Rejected
+Steven Klein,North Stacy,100855,759,12329,10,90.0,True,Approved
+Rhonda Martinez,Millerchester,139579,506,42105,9,45.0,False,Rejected
+Deanna Bartlett,North Paulfurt,31934,633,19101,33,40.0,False,Rejected
+Shane Buchanan,Rodriguezberg,42224,451,38132,37,25.0,False,Rejected
+Traci Garcia,New Kimberlyport,128771,848,23535,26,95.0,True,Approved
+Matthew Armstrong,Johnsonview,141240,712,10427,39,85.0,True,Approved
+Melissa Williams,Hannahton,60982,786,18601,23,75.0,True,Approved
+Robert Turner,Meganville,51798,533,9807,19,45.0,False,Rejected
+Jessica Petersen,Jessicaland,83269,492,29948,13,45.0,False,Rejected
+Jennifer Washington,Lorihaven,93653,462,5300,19,55.0,False,Rejected
+Jennifer Deleon,East Jamesborough,93092,359,17350,2,40.0,False,Rejected
+Thomas Bush,Michealmouth,58016,817,27014,40,75.0,True,Approved
+Melanie Allen,Wheelerburgh,143331,785,39461,35,85.0,True,Approved
+Christopher Kline,West Anthonyton,82565,466,38503,13,40.0,False,Rejected
+Maria Byrd,Denisehaven,148284,320,45708,0,35.0,False,Rejected
+Carlos Thompson,East Johnnyport,37685,581,28774,24,40.0,False,Rejected
+Judy Robinson,Ericafurt,51579,404,1481,32,50.0,False,Rejected
+Dr. Sara Hoffman DDS,Kennethville,79672,793,5183,21,90.0,True,Approved
+Margaret Hensley MD,Jacobhaven,30282,546,4720,38,35.0,False,Rejected
+Francisco Taylor,Lake Tylerport,81173,565,28431,25,45.0,False,Rejected
+Andrew Erickson,West Jessica,64760,527,45978,34,35.0,False,Rejected
+Karen Shepard,Williamburgh,132769,485,20253,6,50.0,False,Rejected
+Patrick Hardy,Lake Rachel,132908,391,15565,22,55.0,False,Rejected
+Seth Fisher,Nathanshire,89638,601,31393,7,55.0,False,Rejected
+Sean Silva,South Pamelahaven,67388,422,45610,24,35.0,False,Rejected
+Jennifer Pitts,East Victoria,85444,650,27816,36,60.0,True,Approved
+Victoria Thomas,Port Christopher,121303,640,42355,11,65.0,True,Approved
+Anthony Hayes,Port Kim,125748,462,33084,5,45.0,False,Rejected
+Jeffrey Jordan,Sanfordfurt,132676,304,3472,34,60.0,True,Approved
+Jake Smith,Katherinehaven,102845,495,2174,0,45.0,False,Rejected
+Danielle Steele,Larryville,116752,692,33986,37,75.0,True,Approved
+Austin Williams,Stephenhaven,124163,836,23140,27,95.0,True,Approved
+Whitney Cooper,Howardborough,93788,468,27436,1,30.0,False,Rejected
+Nicholas Anderson,New Williamville,50289,675,47603,2,50.0,False,Rejected
+Martin Wise,New Virginiaville,54890,320,4161,7,45.0,False,Rejected
+James Kelley,Milesborough,68890,309,20733,26,40.0,False,Rejected
+Mary Nelson,South Maria,58534,407,34527,39,35.0,False,Rejected
+Brian Rodriguez,New James,37665,569,35284,12,25.0,False,Rejected
+Jason Martin,Lozanofort,105914,638,16368,0,55.0,False,Rejected
+Brandon Rodriguez,Hernandezland,126434,823,5918,6,95.0,True,Approved
+Maria Bryant,Josephton,101066,402,12449,2,45.0,False,Rejected
+Heather Rhodes,Rodgersville,37989,346,1633,8,35.0,False,Rejected
+Carolyn Howard,Friedmanview,128038,395,25420,21,55.0,False,Rejected
+James Rivers,Maryfort,71104,731,43522,10,60.0,True,Approved
+Michael Brown,North Robert,37492,794,38286,28,60.0,True,Approved
+James Howard,Port Gabrielleberg,36572,794,32989,7,55.0,False,Rejected
+Jessica Brown,Alexanderhaven,106569,529,44898,21,45.0,False,Rejected
+Melissa Montgomery,Stanleybury,92493,793,23659,24,80.0,True,Approved
+Ronald Mcclain,North Dawnburgh,95909,817,31755,31,85.0,True,Approved
+Angela Vasquez,West Tara,141767,351,34222,14,55.0,False,Rejected
+Jamie Montoya,South Seanshire,99615,758,6768,31,90.0,True,Approved
+Bryan Jimenez,North Richardton,50635,300,6956,38,45.0,False,Rejected
+Marcia Wu,Lake Emily,37455,649,24812,3,30.0,False,Rejected
+Sarah Rivera,Moranstad,96562,763,8472,6,85.0,True,Approved
+Courtney Peterson,Amystad,40500,408,4000,10,40.0,False,Rejected
+Rodney Newton MD,Cherylborough,141587,423,26748,13,55.0,False,Rejected
+Richard Love,Port Robertshire,54356,426,30524,29,35.0,False,Rejected
+Tina Taylor,Smithton,38981,743,39346,30,60.0,True,Approved
+Priscilla Kent,Lake Lisa,107992,406,26389,38,55.0,False,Rejected
+Erica Keith,Pettybury,38907,580,27074,21,40.0,False,Rejected
+Jodi Anderson,Morrisonhaven,118501,606,46973,35,65.0,True,Approved
+Michelle Walls,East Jason,142960,597,45997,22,65.0,True,Approved
+Brandi Page,New Amy,60828,630,47553,7,45.0,False,Rejected
+Kristina Aguilar,Craigside,82923,592,28681,0,45.0,False,Rejected
+Allison Thomas,East Josephburgh,45713,593,45786,16,40.0,False,Rejected
+Antonio Mueller,Port Amber,146691,667,30661,6,65.0,True,Approved
+Megan Hoffman,Lake Deborah,104668,698,16571,32,80.0,True,Approved
+Rebecca Roberts,South Paulmouth,62271,355,1849,16,50.0,False,Rejected
+Sean Dalton,Greerstad,105880,501,48507,12,45.0,False,Rejected
+Christopher Fleming,East Jill,107924,422,25720,2,45.0,False,Rejected
+Justin Anderson,Adammouth,35209,458,3617,9,30.0,False,Rejected
+Linda Ayala,Tracyshire,111183,666,5776,20,75.0,True,Approved
+Tina Meyer,South Amy,40745,713,7025,22,60.0,True,Approved
+Daniel Rivera,Kellyhaven,84948,786,37787,0,60.0,True,Approved
+Gregory Allen,North Felicia,116163,628,25993,7,65.0,True,Approved
+Joshua Campbell,Williehaven,106503,756,32903,2,75.0,True,Approved
+Matthew Flores,North Garyside,104085,846,1480,40,100.0,True,Approved
+Michael Ayala,Houstonborough,98522,850,47054,27,80.0,True,Approved
+Teresa Burgess,North Stephen,71467,639,3482,5,60.0,True,Approved
+Christopher King,New Lorraineview,64179,717,26430,28,60.0,True,Approved
+Jessica Smith,New Adamland,56772,346,46933,4,25.0,False,Rejected
+Jonathan Roberts,Catherineport,117782,748,25996,25,90.0,True,Approved
+Amanda Moore,East Julie,123872,602,42552,9,60.0,True,Approved
+Stephen Sanford,Susantown,71180,444,9076,2,35.0,False,Rejected
+Kyle Medina,West Jasonstad,61285,516,28043,32,35.0,False,Rejected
+Clinton Jensen,Jamesburgh,64814,355,36969,29,35.0,False,Rejected
+Angel Powers,Coreyshire,81876,798,22682,22,80.0,True,Approved
+Matthew Garcia,East Louismouth,47154,636,41392,19,40.0,False,Rejected
+Brittany Knight,Susanburgh,118039,304,21526,15,55.0,False,Rejected
+Michelle Davidson,Maryberg,114607,639,32454,29,65.0,True,Approved
+Raymond Tucker,East Debbieland,69321,587,10175,34,60.0,True,Approved
+Nicholas Sims,North Melissatown,89929,714,39668,13,65.0,True,Approved
+Kristen Stephens,Valdezberg,71441,674,26722,14,65.0,True,Approved
+Leah Vincent,South Walter,128548,392,27003,23,55.0,False,Rejected
+Mary Charles,Port Willie,39508,756,11434,11,65.0,True,Approved
+Krystal Brennan,Lake Jessica,31220,667,3648,14,50.0,False,Rejected
+Crystal Baker,North Elizabeth,90068,830,24674,24,85.0,True,Approved
+Jesse Williams,Dakotahaven,111416,580,49621,16,60.0,True,Approved
+Laura Bennett,Diazland,103792,829,17487,24,95.0,True,Approved
+Courtney Sullivan,Tommyfort,43104,306,33888,8,20.0,False,Rejected
+David Robertson,Jasonburgh,39602,461,24738,38,25.0,False,Rejected
+Bailey Hall,Jenniferfort,100468,790,32393,13,85.0,True,Approved
+Maria Jenkins,North David,57938,464,9829,40,45.0,False,Rejected
+Stephanie Thomas,West Sandra,96307,829,27571,38,85.0,True,Approved
+Marcia Johns,Staceyborough,64760,759,40749,30,70.0,True,Approved
+Carolyn Greer,Port Brandi,47361,486,41842,32,25.0,False,Rejected
+Nathaniel Cooper,Carlsonland,75745,535,25786,24,45.0,False,Rejected
+Alan Mills,Serranoville,145456,481,32186,39,55.0,False,Rejected
+Sherry Schmidt,North Timothyberg,39016,301,45470,27,25.0,False,Rejected
+Jacqueline Williams,Perezfort,145247,690,23971,37,80.0,True,Approved
+Susan Hood,South Dennisfort,62018,538,6493,18,45.0,False,Rejected
+Kimberly Scott,Lake Juliatown,78434,835,8722,33,90.0,True,Approved
+Matthew Watts,Robertville,67353,458,28923,37,35.0,False,Rejected
+Scott Henderson,Cherylfurt,50676,508,28081,35,35.0,False,Rejected
+Karen Wood,Kingport,87433,652,47235,25,55.0,False,Rejected
+Sarah Hopkins,South Krista,139280,465,7571,13,60.0,True,Approved
+Rachel Owen,East Paultown,101200,393,10524,30,55.0,False,Rejected
+Bobby Johnson,Ariasfurt,122214,833,19774,38,95.0,True,Approved
+Raymond Thompson,Gonzalesborough,69651,830,19743,12,80.0,True,Approved
+Kyle Black,New Gavin,110173,336,24575,15,55.0,False,Rejected
+Vanessa Miller,Kimberlystad,135788,704,27571,37,80.0,True,Approved
+Adrian Padilla,New Justinside,115717,656,23772,17,70.0,True,Approved
+Victor Gibson,Andrewsview,99329,479,27681,32,45.0,False,Rejected
+Benjamin Phillips,Port Williamview,31025,850,38676,16,65.0,True,Approved
+Tracy Hart,Port Matthew,117538,769,45668,29,85.0,True,Approved
+Shannon Olson,Carlosbury,137099,535,21691,26,55.0,False,Rejected
+Kelli Smith,Johnland,102692,708,45151,21,70.0,True,Approved
+Timothy Woods,Jefferyshire,69240,575,12978,12,45.0,False,Rejected
+Mr. Nicolas Salas II,Port John,116951,664,11223,6,70.0,True,Approved
+Blake Sosa,Austinside,43577,343,32607,23,25.0,False,Rejected
+Katherine Galloway,Travishaven,145097,586,27075,14,70.0,True,Approved
+Bethany Fox,Mendozaside,47601,333,33930,22,25.0,False,Rejected
+Michael Thompson,Lake Aprilmouth,64664,308,1774,13,50.0,False,Rejected
+Brian Ward,Jacobview,45129,542,18655,30,25.0,False,Rejected
+Grace White,Clarkstad,146616,673,27253,17,80.0,True,Approved
+Kenneth Krause,Port Cory,44029,576,16453,35,30.0,False,Rejected
+James Thomas,South Linda,127310,480,28624,31,55.0,False,Rejected
+Steven Mccoy,Kristenport,102512,556,37840,36,50.0,False,Rejected
+Brett Martin,Port Jonathan,50374,398,30481,21,35.0,False,Rejected
+Isaac Grant,Mauricechester,65697,424,24009,38,40.0,False,Rejected
+Kenneth Banks,Port Justin,66930,632,45118,32,50.0,False,Rejected
+Dr. Steve James,Stevenberg,109276,471,42981,21,50.0,False,Rejected
+Logan Sullivan,North Fernandobury,57607,621,21766,18,55.0,False,Rejected
+Lisa Foster,Normanstad,124058,833,30510,26,95.0,True,Approved
+Scott Martinez,Lake Johnathan,74942,381,14800,10,45.0,False,Rejected
+Brendan Zuniga,Kelleytown,56685,706,35339,5,55.0,False,Rejected
+Luke Miller,Parkerbury,120111,590,30042,40,65.0,True,Approved
+Joseph Jackson,Lake Michaelmouth,113130,787,31617,34,85.0,True,Approved
+Kimberly Taylor,New Carla,141792,745,35305,40,90.0,True,Approved
+Emily Reed,Port Christopher,64600,615,24971,26,55.0,False,Rejected
+Eric Smith,West Justin,96244,847,1545,31,95.0,True,Approved
+Karen Smith,Yatesbury,94032,307,36927,23,45.0,False,Rejected
+Stephen Kim,East Jennifer,62914,699,25796,14,60.0,True,Approved
+Jay Allen,Justinside,148664,575,28060,12,55.0,False,Rejected
+Catherine Roberts,Williamsonview,149034,803,13306,20,100.0,True,Approved
+Anthony Nichols,North Julian,140900,428,47871,28,50.0,False,Rejected
+Crystal Hernandez,Robinsonchester,36658,619,33662,23,40.0,False,Rejected
+Rick Rivera,North Joseph,42097,701,5678,34,60.0,True,Approved
+Corey Skinner,Claytonville,113136,554,26218,28,55.0,False,Rejected
+Zachary Gonzalez,New Elizabethborough,85518,784,26501,19,80.0,True,Approved
+Caitlin Chandler,West Timothyport,138704,503,24620,3,45.0,False,Rejected
+Claudia Rodriguez,Nguyenburgh,66265,582,39318,7,45.0,False,Rejected
+David Novak,Barkerberg,35778,680,6864,15,60.0,True,Approved
+Brandon Montgomery,North Michaelberg,30464,849,8038,8,65.0,True,Approved
+Eugene Grant DDS,Lindamouth,73719,497,2399,24,50.0,False,Rejected
+Chad Roach,Mannside,131072,601,36568,31,65.0,True,Approved
+Cody Bailey,Hillside,47146,464,5513,33,35.0,False,Rejected
+Edward Baker,Shawnhaven,113507,688,49080,11,70.0,True,Approved
+Lisa Diaz,West Jennifer,64335,696,13443,33,70.0,True,Approved
+Pamela Moore,Marcusmouth,51178,413,7308,33,45.0,False,Rejected
+Amanda Pace,Port Anthony,127154,409,32809,12,50.0,False,Rejected
+Kenneth Huff,Foxshire,87912,562,4216,23,55.0,False,Rejected
+Mitchell Smith,Lake Travis,102309,381,31674,40,50.0,False,Rejected
+Justin Hurley,Shortton,122493,572,35669,2,40.0,False,Rejected
+Sandra Miller,New Colton,86057,536,35842,24,40.0,False,Rejected
+Joseph Wright,New Kara,103519,725,49896,6,65.0,True,Approved
+Laura Craig,Andradeburgh,31267,484,37042,25,25.0,False,Rejected
+Mary Ferguson,Mahoneymouth,44663,632,25361,26,40.0,False,Rejected
+Jessica Swanson,New Amy,39862,684,37060,16,50.0,False,Rejected
+Jesse Moyer,Lake Austinport,145750,316,34922,8,50.0,False,Rejected
+Elizabeth Evans MD,Andrewview,120573,823,37459,36,90.0,True,Approved
+Brittney Johnson,Ericview,148479,675,39152,15,75.0,True,Approved
+Robert Davis,Carrollborough,49536,379,48420,20,25.0,False,Rejected
+Carrie Petersen,New Dawnton,101511,690,6143,3,75.0,True,Approved
+Felicia Hobbs,Butlerville,34722,532,49999,38,25.0,False,Rejected
+Madison Chen,West Alicemouth,139392,453,22419,32,55.0,False,Rejected
+Brittany Nunez,Maddoxshire,78393,816,6903,14,95.0,True,Approved
+Richard Hernandez,Christophershire,106350,350,36923,25,50.0,False,Rejected
+James Hamilton,Port Dennis,102420,502,32972,25,50.0,False,Rejected
+Christina Gilbert,East Charles,49410,740,22195,36,60.0,True,Approved
+Michael Henderson,Jamesstad,86333,324,20976,10,50.0,False,Rejected
+Lisa Branch MD,South Brady,46704,539,14086,23,30.0,False,Rejected
+Nicholas Miller,East Stacyberg,35482,594,1900,21,55.0,False,Rejected
+Ashley Cole,West Jasonside,70404,516,14356,34,45.0,False,Rejected
+Deanna Webb,Lake Holly,77795,318,25681,37,45.0,False,Rejected
+Kelsey Scott,West Jamesview,147831,354,31471,0,40.0,False,Rejected
+Matthew Alvarado,Michelletown,134349,599,43559,24,65.0,True,Approved
+James Bray,West Toddside,142814,390,13217,12,60.0,True,Approved
+Judith House,North Johnhaven,35229,612,22860,31,40.0,False,Rejected
+Christopher Reed,Michaelport,147823,541,33850,17,55.0,False,Rejected
+Lori Johns,New Stacybury,76898,455,23399,25,45.0,False,Rejected
+Anita Reyes,South John,57535,456,28948,19,35.0,False,Rejected
+Erin Daniels,Lake Dillon,119399,507,10051,19,60.0,True,Approved
+Stephanie Browning,Forbesberg,62706,461,21807,4,30.0,False,Rejected
+Tiffany Wilson,Maryberg,117416,330,21885,26,55.0,False,Rejected
+Elizabeth Reese,Edwinborough,43473,409,9620,11,35.0,False,Rejected
+William Jensen,New Jesse,76357,326,24544,5,40.0,False,Rejected
+Karen Shaw,Josephstad,132251,488,26392,31,55.0,False,Rejected
+Christopher Perez,Durantown,103385,576,28069,14,50.0,False,Rejected
+Virginia Todd,East Saramouth,145885,801,46079,20,90.0,True,Approved
+Stacy Patterson,New Jillfurt,144650,620,26831,39,70.0,True,Approved
+Laura Herrera,New Danielmouth,83264,343,17103,33,50.0,False,Rejected
+Victoria Williams,Blackton,111351,494,20082,28,55.0,False,Rejected
+Eric Carey,Jacksonport,128235,355,46216,33,50.0,False,Rejected
+Julie Lucas,Lake Vincentburgh,50257,438,26760,26,35.0,False,Rejected
+Alexander Chavez,South Christopher,61029,631,46332,10,50.0,False,Rejected
+Becky Wilson,Waltersland,143325,836,47352,24,90.0,True,Approved
+Vanessa Salazar,South Andrea,51299,344,12199,21,45.0,False,Rejected
+Mary Hernandez,East Kayla,134842,352,28497,19,55.0,False,Rejected
+Randy Griffin,North Rachel,136269,507,1231,39,60.0,True,Approved
+Alexandria Jimenez,Stephenstown,53206,805,16589,13,80.0,True,Approved
+Karen Ortiz,New Carolbury,145528,584,41616,40,65.0,True,Approved
+Samantha Williams,North Denise,84040,337,10527,2,40.0,False,Rejected
+Sara Evans,North Danielburgh,33248,465,45046,18,25.0,False,Rejected
+Melissa Larson,South Kara,53509,668,3348,5,60.0,True,Approved
+Erica Merritt,Port Ronaldside,126542,366,20191,30,55.0,False,Rejected
+Michael Hill,Warrenborough,73540,359,8163,36,45.0,False,Rejected
+Lori Benitez,Ramseyport,132548,737,40901,20,75.0,True,Approved
+Kenneth Hanson,New Anna,83964,832,48787,40,80.0,True,Approved
+Dr. Stephen Hall IV,North David,135150,776,41990,7,80.0,True,Approved
+Christine Gilbert,Gutierrezmouth,117806,658,37727,40,65.0,True,Approved
+Martin Vaughn,Kristyport,143254,607,34206,35,70.0,True,Approved
+Aaron Jennings,Randyshire,126345,329,12510,12,60.0,True,Approved
+George Chambers,Roblesberg,136266,793,11183,40,95.0,True,Approved
+Sean Huang,Bowerschester,62527,357,35149,19,35.0,False,Rejected
+Megan Peters,East Barbaramouth,64970,662,5339,9,60.0,True,Approved
+Andre Terrell,New Catherine,50866,491,40006,7,30.0,False,Rejected
+Nicole Thornton,Jenniferview,133202,723,6688,31,85.0,True,Approved
+Jacqueline Gallegos,Javierport,121917,479,8355,23,60.0,True,Approved
+Paula Gentry,Hunterfort,44168,812,11097,12,70.0,True,Approved
+John Russo,Kimberlyberg,80140,400,34826,8,35.0,False,Rejected
+Andrew Hughes,North Larryton,144316,389,22842,29,55.0,False,Rejected
+Ashley Miranda,Andrewport,35075,514,22029,12,25.0,False,Rejected
+Donald Flores,Lambertview,142537,452,11321,17,60.0,True,Approved
+Tyler Castro,East Amyside,91694,626,18763,9,60.0,True,Approved
+Regina Andrews,North Larry,59154,646,36427,28,50.0,False,Rejected
+Allen Berger,North Patrickland,56158,736,26684,11,60.0,True,Approved
+Stephanie Soto,Jensenport,137031,640,13985,34,70.0,True,Approved
+Thomas Duran,North Lisa,90332,779,7374,29,90.0,True,Approved
+Matthew Miranda,Hallbury,75830,447,41431,16,40.0,False,Rejected
+Jenna Lyons,Kristinamouth,70001,764,32949,1,55.0,False,Rejected
+Brian Mendoza,West Katrina,137549,430,34288,6,50.0,False,Rejected
+Miguel Rodriguez,Port Kevinmouth,134247,710,39701,26,75.0,True,Approved
+David Moore,Reyesmouth,144206,513,46485,37,50.0,False,Rejected
+William Bradley,Amybury,59831,477,44424,4,25.0,False,Rejected
+Michelle Copeland,New Caitlinmouth,59219,399,30177,11,35.0,False,Rejected
+Jared George,Murphyton,33101,392,15261,8,20.0,False,Rejected
+Stephanie Fields,Port Dwayneberg,116511,763,35816,18,85.0,True,Approved
+Kenneth Gonzalez,Kevinport,55313,745,48041,22,70.0,True,Approved
+Lauren Carr DDS,Port Kelly,82227,678,36971,3,55.0,False,Rejected
+Justin Irwin,Port Juliantown,73025,540,29292,37,35.0,False,Rejected
+Evan Reyes,Grahamborough,66517,477,32121,8,30.0,False,Rejected
+James Middleton,Mooreberg,143292,437,1760,4,50.0,False,Rejected
+Brianna Dyer,Proctorberg,39099,386,9992,26,30.0,False,Rejected
+Stephanie Dominguez,Hansonmouth,131361,821,28795,35,95.0,True,Approved
+Janice Perez,Jacobsshire,66585,810,48901,15,75.0,True,Approved
+Debra House,Arthurton,76025,794,47195,23,75.0,True,Approved
+John Vaughn,Lake Jessica,114080,586,31470,33,65.0,True,Approved
+Steve Davis,Mccoyland,96768,619,41176,3,45.0,False,Rejected
+Kimberly Smith,Huntfort,82386,639,28591,22,60.0,True,Approved
+Thomas Curry,Bryanfort,119065,473,38542,3,40.0,False,Rejected
+Dorothy Mclaughlin,West Toddberg,140580,817,6037,17,100.0,True,Approved
+Luis Hill,Alexisville,100282,478,39782,9,45.0,False,Rejected
+Jacqueline Thompson,South Henry,73404,840,3168,21,90.0,True,Approved
+Dr. Linda Underwood,Mullinschester,33617,692,16594,28,50.0,False,Rejected
+Carol Lane,Brianview,45118,418,4442,10,40.0,False,Rejected
+John Alvarez,South Frances,144955,699,32102,16,80.0,True,Approved
+Seth Smith,Reyesmouth,64237,842,45752,2,65.0,True,Approved
+Joseph Gomez,Bishopview,53405,643,18716,17,55.0,False,Rejected
+Dawn Silva,Mejiabury,106099,499,35075,21,50.0,False,Rejected
+Wendy Edwards,Lake Alanland,64795,312,27951,6,30.0,False,Rejected
+Melissa Bell,Johnathanton,35014,324,41592,5,20.0,False,Rejected
+Kristopher Shannon,New Danielle,44208,422,6661,38,35.0,False,Rejected
+Matthew Yoder,North Heather,108193,559,20304,29,55.0,False,Rejected
+Angela Chavez,Kaylamouth,86959,563,11614,4,40.0,False,Rejected
+Antonio Price,West Stephanieview,75309,482,29873,4,35.0,False,Rejected
+Timothy Bishop Jr.,Rodriguezside,125491,741,15312,39,90.0,True,Approved
+Susan Baldwin,North Charlesshire,133078,556,30221,1,40.0,False,Rejected
+Brittany Bowman,Lake Peterberg,71114,637,26646,36,55.0,False,Rejected
+Michael Wise,Grahamland,87199,531,1216,24,55.0,False,Rejected
+Sabrina Olson,Mathewport,109457,710,4617,40,85.0,True,Approved
+Maria Diaz DVM,Christophermouth,97033,596,43453,12,55.0,False,Rejected
+Andrew Cruz,West Heather,45157,409,42328,22,25.0,False,Rejected
+Dr. Jeffrey Lopez,East Anthonyshire,80488,544,33062,24,40.0,False,Rejected
+Joshua Parker,Levytown,147899,337,23235,3,45.0,False,Rejected
+Nathan Sullivan,Port Desiree,105574,835,31039,34,90.0,True,Approved
+Kerry Buckley,Lake Donaldtown,54914,782,41525,2,60.0,True,Approved
+Matthew Smith,West Loriville,63386,767,41057,10,70.0,True,Approved
+Amy Roth,South Brookebury,35817,364,14280,27,30.0,False,Rejected
+Russell Rojas,Nguyenshire,122901,440,22075,13,55.0,False,Rejected
+Leslie Rogers,West Donaldchester,87154,472,46632,23,40.0,False,Rejected
+Jessica Frost,East Craigfurt,30221,461,2024,31,40.0,False,Rejected
+Adam Howe,Robertfort,98146,429,14510,9,45.0,False,Rejected
+Kelly Jenkins,New Heather,135710,484,48002,31,50.0,False,Rejected
+Anita Serrano,Michaeltown,100575,541,13576,7,50.0,False,Rejected
+Dr. Lisa Huffman,South Kaylee,120027,513,19115,3,45.0,False,Rejected
+Robert Jennings,Jimenezburgh,124297,344,4540,23,60.0,True,Approved
+Jeffrey Cook,Williamston,127248,850,12526,10,100.0,True,Approved
+Karina Wilson,Lake Sean,126605,633,28463,12,70.0,True,Approved
+Stephanie Hall,West Jeremybury,117900,722,14104,24,80.0,True,Approved
+Angel Richards,South Dustinmouth,55825,482,26384,23,35.0,False,Rejected
+Nathan Chen,Jamesberg,77739,332,46364,36,40.0,False,Rejected
+Chad York,Barnesmouth,86531,525,20343,38,50.0,False,Rejected
+Robert Cisneros,New Tara,39171,535,6667,26,35.0,False,Rejected
+Katherine Forbes,Hoodview,117062,314,48842,27,45.0,False,Rejected
+Danielle Murphy,New Sophia,73279,305,28379,2,30.0,False,Rejected
+John Mack,South Amandafort,111678,400,30651,31,50.0,False,Rejected
+Justin Smith,Dodsonberg,71145,667,20384,15,55.0,False,Rejected
+Ann Castillo,Evanmouth,116951,324,30808,29,50.0,False,Rejected
+Shelly Sullivan,Courtneytown,141151,372,26223,21,55.0,False,Rejected
+Elizabeth Mullins,Port Gail,46334,643,49218,3,30.0,False,Rejected
+Susan Cox,North Patrickmouth,124339,341,24958,23,55.0,False,Rejected
+Justin Jones,East Tina,147970,544,36365,7,50.0,False,Rejected
+Nancy Goodwin,Port Julie,69363,530,22001,22,40.0,False,Rejected
+Kathy Henderson,North Nathanmouth,96469,797,33863,33,80.0,True,Approved
+Julie Patel,Shannonstad,70538,367,13343,29,45.0,False,Rejected
+James White,North Fredville,117410,451,33527,9,45.0,False,Rejected
+Kelly Burton,Robertside,83528,435,32057,22,45.0,False,Rejected
+Oscar Smith,North Andrew,72753,537,35053,21,35.0,False,Rejected
+Grant Lucas,Toddhaven,82743,755,31015,19,80.0,True,Approved
+Stephanie Parker,Jeremystad,121384,595,4101,9,70.0,True,Approved
+Jesus Jackson,Lake Amanda,68752,486,12492,9,40.0,False,Rejected
+Bruce Chaney,South Jorge,102667,488,14445,35,55.0,False,Rejected
+Mary Spence,West Shane,46683,466,35972,19,25.0,False,Rejected
+Alexander Velazquez,South Sarah,55144,459,1281,34,50.0,False,Rejected
+Erin Thornton,Kempshire,85108,450,38043,28,40.0,False,Rejected
+Michael Wilson,South Christinabury,117153,756,24422,5,85.0,True,Approved
+Lee Lee,Port Shari,79695,584,13826,1,50.0,False,Rejected
+Samuel Rhodes,New Prestonfort,118777,625,40529,38,65.0,True,Approved
+Amy Estrada,Hernandezchester,128059,678,26304,23,80.0,True,Approved
+Gregory Parker,Sawyerland,148332,520,48700,28,50.0,False,Rejected
+Jennifer Ramos,Port Jessica,52810,734,48749,26,60.0,True,Approved
+Kevin Miller,West Thomas,110676,837,22981,4,85.0,True,Approved
+Leslie Bennett,South Danielleview,104593,724,12461,35,80.0,True,Approved
+Keith Melendez,East Marisa,69446,596,37298,31,50.0,False,Rejected
+Ronald Davenport,Troymouth,83225,529,2758,0,40.0,False,Rejected
+Eric Davidson,Martinezport,101819,727,12755,31,80.0,True,Approved
+Maria Johnson,Trevorland,139278,670,39080,30,75.0,True,Approved
+Sheena Burton,Mccannville,30053,682,34588,36,50.0,False,Rejected
+David Perkins,West Steven,69829,438,24421,10,40.0,False,Rejected
+Isaac Fields,Brandonport,67606,842,42873,4,65.0,True,Approved
+Pamela White,New Karenside,57549,630,21723,19,55.0,False,Rejected
+Michael Cox,Madelinetown,86346,440,34958,18,40.0,False,Rejected
+John Peterson,North Jeffery,132990,815,15490,12,95.0,True,Approved
+Kristin Norris,South Stevenland,106019,419,9600,1,45.0,False,Rejected
+Eric Cox,Prestonhaven,109516,650,12285,19,70.0,True,Approved
+Robert Walker,Lake Jeremy,115813,428,14752,8,50.0,False,Rejected
+Mrs. Pamela Rodriguez,Port Toddchester,72237,343,13868,6,40.0,False,Rejected
+Matthew Watkins,Wilsonview,90946,344,5341,19,55.0,False,Rejected
+Nicole Patton,New Rachel,87905,489,44948,22,40.0,False,Rejected
+Charles Francis,Stacystad,87954,660,11522,32,65.0,True,Approved
+Lisa Wagner,North Loritown,118555,841,15221,12,95.0,True,Approved
+Carolyn Webster,Lake Coreyborough,58010,816,47383,30,75.0,True,Approved
+Kevin Gonzales,East Maryfurt,97000,734,15042,32,75.0,True,Approved
+Brian Rollins,South Danielberg,92021,807,24674,18,85.0,True,Approved
+Amanda Murphy,South Justinport,134036,754,15802,35,90.0,True,Approved
+William Patterson,Port Leahstad,148119,483,1837,31,60.0,True,Approved
+Jennifer Mills,North Douglasfurt,134336,404,49590,10,50.0,False,Rejected
+William Morgan,Martinezchester,126463,811,19252,37,95.0,True,Approved
+Nicole Owen,Kellyfurt,52241,796,34516,17,70.0,True,Approved
+Jesse Martinez,Crawfordberg,116356,330,7527,3,50.0,False,Rejected
+Kathleen Johnson,South Cassandra,41114,634,11009,19,45.0,False,Rejected
+Anne Jones,Sparksborough,67196,600,44390,31,50.0,False,Rejected
+Dennis Cooper PhD,Port Anthonychester,97561,421,26141,28,45.0,False,Rejected
+James Stevens,East Angelaport,117012,468,33209,27,50.0,False,Rejected
+Mike Freeman,New Emilyside,112960,781,32189,35,85.0,True,Approved
+Katie Myers,Garzafurt,111167,661,19640,20,70.0,True,Approved
+Kevin Anderson,Michaelshire,73933,327,41970,21,35.0,False,Rejected
+Jeffrey Braun,Bellbury,42240,553,16376,19,30.0,False,Rejected
+Susan Jones,Dannyburgh,137272,320,36285,20,50.0,False,Rejected
+Matthew Henderson,Adamsfort,128453,322,21743,24,55.0,False,Rejected
+Erica Davis,Garciaborough,60784,644,33553,32,50.0,False,Rejected
+Mary Jackson,Michaelchester,118184,506,33568,40,50.0,False,Rejected
+Rachel Pittman,West Joseph,70687,604,38586,25,50.0,False,Rejected
+Lori Rubio,New Matthewland,59444,843,32147,27,75.0,True,Approved
+Robert Pearson,Williamport,135717,743,44480,34,85.0,True,Approved
+Jason King,Powersside,56100,484,2219,40,50.0,False,Rejected
+Shari Ray,Lake Suzanne,49313,778,18559,40,65.0,True,Approved
+Lisa Hammond,Michaelton,33201,834,14149,23,65.0,True,Approved
+David Francis,Meganchester,36057,626,5222,40,50.0,False,Rejected
+Jason Colon,West Gloria,62092,541,27598,15,35.0,False,Rejected
+Corey Sanchez,Stevenside,92277,746,28657,2,70.0,True,Approved
+Dominic Johnson,Donnaburgh,110120,343,48348,31,45.0,False,Rejected
+Amy Mosley,Carolynland,141376,716,24818,5,75.0,True,Approved
+Ryan Cameron,North Ashley,130727,812,8906,33,100.0,True,Approved
+Lauren Hampton,Tylerland,39545,543,40309,7,20.0,False,Rejected
+Emily Collier,Shafferbury,89692,733,15287,9,70.0,True,Approved
+Daniel Hill,Kingshire,84321,357,33136,34,45.0,False,Rejected
+Travis Stewart,Wellsbury,146147,584,10496,23,75.0,True,Approved
+Jacob Parker,Port Joditon,112544,545,17579,35,55.0,False,Rejected
+Mark Haynes,New Michellemouth,105454,697,1515,25,85.0,True,Approved
+Tabitha Turner,West Jason,55485,464,29760,40,35.0,False,Rejected
+Robert Newman,West Michellefort,124155,782,49296,26,85.0,True,Approved
+Faith Henderson,Port Ethanview,121272,818,5349,22,100.0,True,Approved
+Nicholas Kelley,Shawntown,80328,353,43033,11,40.0,False,Rejected
+Rachel Taylor,Gonzalezport,94799,621,38736,5,50.0,False,Rejected
+David Reeves,Port Brooke,82383,720,21932,28,70.0,True,Approved
+Nicholas Green,Laurenborough,61979,386,28164,23,35.0,False,Rejected
+Shawn Duffy,North Stacy,49342,534,6831,29,35.0,False,Rejected
+Michael Jackson,Williamsonview,115990,452,6836,23,60.0,True,Approved
+Keith Smith,Ayalamouth,120128,806,8766,14,100.0,True,Approved
+Cheryl Atkins,Keithfort,30726,691,9532,27,55.0,False,Rejected
+Lindsay Carney,Jessicaborough,147002,728,12820,26,85.0,True,Approved
+Alyssa Cherry,New Shannon,128430,554,25224,37,55.0,False,Rejected
+Judith Smith,Port Marcus,142779,707,46013,13,75.0,True,Approved
+Michelle Fitzgerald,Charlesside,130931,360,4415,21,60.0,True,Approved
+Kaitlin Gomez,North Jonfurt,146059,609,26866,23,70.0,True,Approved
+Steven Williams,West Geoffrey,43970,804,23228,29,65.0,True,Approved
+Evan Moreno,West Darryl,132029,345,9380,31,60.0,True,Approved
+Sandy Adkins,Campbellview,85724,570,34880,20,40.0,False,Rejected
+Christopher Doyle,Gallagherberg,58683,750,4487,12,85.0,True,Approved
+Michael Graham,Williamsstad,53053,796,30999,31,70.0,True,Approved
+Nathan Hernandez,Claytonport,135396,484,12029,32,60.0,True,Approved
+Kristine Alvarado,New Whitney,121214,304,35472,36,50.0,False,Rejected
+Thomas Sanchez,Rhodesmouth,97889,326,19630,7,45.0,False,Rejected
+Kevin Bean,Ericland,90889,771,47380,30,75.0,True,Approved
+Tyler Wheeler,West Taramouth,36582,632,48942,36,40.0,False,Rejected
+Scott Solis,Marcuston,103060,372,36858,38,50.0,False,Rejected
+James Thompson,Davisborough,62662,466,26460,25,35.0,False,Rejected
+Paul Valdez,West Travischester,141193,617,45889,38,65.0,True,Approved
+Max Collier,South Sean,45906,697,32223,17,50.0,False,Rejected
+Jenny Avila,Christinachester,89829,736,7091,2,70.0,True,Approved
+Valerie Rhodes,South Alison,47477,837,6503,18,75.0,True,Approved
+Bob Solis,Edgarberg,135043,607,17295,33,70.0,True,Approved
+Keith Arnold,New Danielchester,90901,722,7192,29,80.0,True,Approved
+Laura King,Brendahaven,117500,316,8466,29,60.0,True,Approved
+Clarence Long,South Nancyport,99616,621,39483,29,60.0,True,Approved
+Joanna Morton,Tammyburgh,103259,516,13129,5,50.0,False,Rejected
+Lindsey Savage,South Amandatown,108047,704,8646,0,70.0,True,Approved
+John Holt,Turnerstad,71588,704,20834,5,60.0,True,Approved
+Adrian Rodriguez,Lake Taratown,128992,514,32530,9,45.0,False,Rejected
+Jessica Garrett,North Kevin,146840,774,10710,30,95.0,True,Approved
+Bruce Barrera,Maynardfort,88008,320,30459,37,45.0,False,Rejected
+Edward Gallegos,Williamstown,110301,405,42314,27,50.0,False,Rejected
+Sarah Mclaughlin,Benjaminfurt,136824,797,34643,37,85.0,True,Approved
+Taylor Stein,Hallton,124276,840,2246,27,100.0,True,Approved
+Kristen Adams,Smallville,146918,806,41809,22,90.0,True,Approved
+Jeffrey Martin,South Maurice,96162,537,34268,14,45.0,False,Rejected
+Melinda Dorsey,Andersonport,85933,699,28319,23,70.0,True,Approved
+Rebecca Richard,West Hannah,138864,388,44716,30,50.0,False,Rejected
+Curtis Obrien,Port Robertfort,148863,610,16382,13,70.0,True,Approved
+Yvonne Howard,Michaelburgh,101810,478,33995,2,40.0,False,Rejected
+Gail Wilson,North Anna,88446,798,17896,21,85.0,True,Approved
+Patricia Carrillo,Paulahaven,147598,406,47294,3,40.0,False,Rejected
+Jessica Bryant,North Kimberlyville,50861,342,34246,6,30.0,False,Rejected
+Bruce Harris,Ericport,127472,752,34154,31,85.0,True,Approved
+Annette Holland,Loriville,142917,506,29777,26,55.0,False,Rejected
+Adriana Davenport,Petersonhaven,92216,475,6585,17,55.0,False,Rejected
+Paul Ward,East Karen,88991,842,28637,14,85.0,True,Approved
+Jeffrey Hardin,Cranehaven,63972,670,2950,28,75.0,True,Approved
+Adam Drake,North Matthewfurt,128536,468,29447,3,45.0,False,Rejected
+Andrew Nielsen,New Brian,62406,832,20380,26,80.0,True,Approved
+Michael Spencer,Jennifermouth,140082,652,1517,17,75.0,True,Approved
+Lisa Thomas,Griffinborough,113579,752,46709,22,80.0,True,Approved
+Rachael Sullivan,West Christopher,66347,850,22921,24,80.0,True,Approved
+Natalie Martinez,Jasonhaven,130376,619,35166,21,65.0,True,Approved
+Caitlin Johnson,Johnport,131931,732,34113,7,70.0,True,Approved
+Sarah Green,Davidville,98327,759,20527,36,85.0,True,Approved
+Jody Bird,West Kevin,93517,443,47815,24,40.0,False,Rejected
+Samantha Ward,East Jenniferchester,112149,383,7045,3,50.0,False,Rejected
+Carlos Lewis,West Ericafurt,61358,831,26872,16,75.0,True,Approved
+Mallory Barajas,Dennischester,65992,466,10459,32,45.0,False,Rejected
+Michael Anderson,Lake Jasonfort,87654,333,49922,10,40.0,False,Rejected
+Jaclyn Crane,Rodriguezstad,40155,596,3639,33,55.0,False,Rejected
+Jacob Ritter,Kellytown,123525,446,10315,37,60.0,True,Approved
+Timothy Torres,Jasonfort,67450,302,9016,35,45.0,False,Rejected
+Seth Butler,Arielmouth,60735,686,32144,38,60.0,True,Approved
+Charles Fields,Contrerasberg,65614,633,6853,39,60.0,True,Approved
+Jennifer Hall,Morganton,74020,753,49228,17,70.0,True,Approved
+Sharon Mann,Annville,71904,387,13610,39,45.0,False,Rejected
+Nina Bernard,Port Thomas,147050,319,8882,34,60.0,True,Approved
+Albert Buchanan,Port Janice,100798,754,6547,34,95.0,True,Approved
+Jennifer Williams,West Samuelchester,40561,324,35596,20,25.0,False,Rejected
+Brandon Petty,West Douglas,48136,561,6873,9,30.0,False,Rejected
+Jason Jackson,Howardton,49769,605,26555,6,35.0,False,Rejected
+Jason Nguyen,Davidville,60311,353,14274,15,45.0,False,Rejected
+Laurie Vasquez,Averyview,80205,362,21862,29,45.0,False,Rejected
+Ana Johnson,North Joseph,120957,403,17142,35,55.0,False,Rejected
+Beth Carroll,Millerhaven,50028,508,10330,23,45.0,False,Rejected
+Carol Sanchez,Aliside,122591,762,3738,0,80.0,True,Approved
+Tonya Oliver,North Brian,58043,793,18911,38,75.0,True,Approved
+Michael Kidd,New Mary,38418,588,3980,10,50.0,False,Rejected
+Kristine Turner,Haleberg,84377,586,29309,13,60.0,True,Approved
+Tina Flores,Cynthiamouth,83424,579,17117,20,50.0,False,Rejected
+Joe Greene,Lake Dennistown,73369,787,1280,0,70.0,True,Approved
+Jennifer Woodard,Farmerside,101121,383,43539,4,35.0,False,Rejected
+Stephanie Cabrera,Chambersstad,91069,685,40407,22,65.0,True,Approved
+Ryan Cain,North Stevenborough,84496,755,1613,14,90.0,True,Approved
+Olivia Becker,Jamesport,38161,526,16352,31,25.0,False,Rejected
+Amanda Vasquez,North James,57110,705,8270,17,70.0,True,Approved
+Kathleen Arnold,North Brianna,139168,366,9351,16,60.0,True,Approved
+Savannah Ibarra,Jamestown,85069,845,41269,16,80.0,True,Approved
+Sonya Smith,Davidsonton,81049,630,29347,26,60.0,True,Approved
+Michael Owens,Zacharyton,148598,529,4077,17,60.0,True,Approved
+Kim Stewart,Leeland,130898,325,49329,14,50.0,False,Rejected
+Jessica Jones,East Frank,106556,618,5118,40,75.0,True,Approved
+Alyssa Reynolds,New Lauramouth,121163,556,17197,6,50.0,False,Rejected
+Tyler Wall,Aprilbury,32560,374,40319,39,25.0,False,Rejected
+Brendan Griffin,North Territon,142293,686,21531,4,70.0,True,Approved
+Amy Lang,West Cherylchester,145429,367,7673,3,50.0,False,Rejected
+Elizabeth James,New Karenbury,130348,310,30714,24,55.0,False,Rejected
+Jeffrey Oliver,West Debratown,105456,764,34896,21,85.0,True,Approved
+Ashley Smith,New Kristineborough,79857,429,42770,32,40.0,False,Rejected
+Jason Hardy,Lopezberg,92518,345,4964,8,50.0,False,Rejected
+Jeffrey Moyer,Larryside,30772,449,10660,30,30.0,False,Rejected
+Grant Wood,New Brendaberg,76105,358,16557,32,50.0,False,Rejected
+Kristin Brown,Jamesborough,69139,506,5482,21,50.0,False,Rejected
+Michael Christian,Christinachester,128759,636,11635,6,70.0,True,Approved
+Richard Williams,North Danielle,81116,535,31574,39,45.0,False,Rejected
+John Tate,Lindsayfurt,141863,510,27234,11,55.0,False,Rejected
+Adriana Smith,Anthonyville,146869,445,20043,28,55.0,False,Rejected
+Kevin Cannon,North Jamesport,139540,478,15348,16,55.0,False,Rejected
+Gina Spencer,East Andrew,84921,568,7631,1,40.0,False,Rejected
+Breanna Pena,West Sharonport,100545,767,16738,23,90.0,True,Approved
+Mary Pugh,Johnsland,127978,421,10465,8,55.0,False,Rejected
+Cheryl Gray,Louischester,126289,550,4027,39,60.0,True,Approved
+Sarah Phillips,West John,101582,586,9287,32,75.0,True,Approved
+Stacey Clark,Port Thomasland,134840,471,34332,24,50.0,False,Rejected
+Maria Hicks,Stoneburgh,109069,629,47693,23,60.0,True,Approved
+Karen Sosa,Adamsfurt,147677,337,14579,14,60.0,True,Approved
+Jodi Young,West Ronald,58906,686,38445,10,60.0,True,Approved
+Jacqueline Pierce,Port Christopher,93993,755,35001,22,80.0,True,Approved
+Andrew Hunt,Ronaldmouth,58760,742,27801,23,70.0,True,Approved
+Emily Reyes,South Jesus,65774,377,24533,5,35.0,False,Rejected
+Jonathan Payne,Port Joshuabury,87125,400,8771,4,40.0,False,Rejected
+Joshua Cook,Johnview,93654,495,47244,38,40.0,False,Rejected
+Dr. Nicole Singh DVM,Port Kevinstad,33804,713,27591,37,50.0,False,Rejected
+Alexandra Valdez,Port Raymond,80968,532,48404,13,40.0,False,Rejected
+Jose Hartman,Sharpmouth,74057,648,6627,20,65.0,True,Approved
+Jessica Mcmahon,Clarkmouth,117670,330,25556,8,50.0,False,Rejected
+Bethany Harding,South Lisastad,119016,647,15777,26,70.0,True,Approved
+Paul Farmer,Marktown,134614,332,10118,9,55.0,False,Rejected
+Wendy Carroll,Bairdborough,82994,700,5175,34,80.0,True,Approved
+John Murphy,Fowlerport,124919,395,12234,6,55.0,False,Rejected
+Cassandra Serrano,Johnsonborough,51632,371,26289,18,35.0,False,Rejected
+Eddie Warren,Brownhaven,140166,311,12260,20,60.0,True,Approved
+Jennifer Moore,East Amandafort,91261,370,26493,13,45.0,False,Rejected
+Daniel Reynolds,Mooreshire,46728,617,39501,12,40.0,False,Rejected
+Melinda Hill,East Seanfurt,111560,552,35462,21,50.0,False,Rejected
+Sherry Stevens,Lake Christophermouth,100008,655,46895,19,60.0,True,Approved
+Rodney Horn,Wrightchester,33534,768,26209,11,60.0,True,Approved
+Anna Hale,East Nicoleburgh,148872,580,42162,34,65.0,True,Approved
+Thomas Wolfe,South Robert,81645,424,25165,4,35.0,False,Rejected
+Kathy Chan,Hayesview,107580,512,34165,2,40.0,False,Rejected
+Benjamin Neal,Jamesfurt,103975,499,26996,2,40.0,False,Rejected
+Brian Stark,Ellenmouth,116900,796,31235,4,75.0,True,Approved
+Matthew Reeves,Taylorview,33552,465,12179,1,15.0,False,Rejected
+Cassandra Martinez,Jacksontown,41003,579,11059,28,30.0,False,Rejected
+Daniel Johnson,South Heather,114246,835,43009,6,85.0,True,Approved
+Eric Williams,North Kelseyborough,86179,555,25552,15,45.0,False,Rejected
+Alan Johnson,West Loriland,47786,525,7330,10,35.0,False,Rejected
+Amanda Hunt,Marcusborough,143619,512,36501,25,50.0,False,Rejected
+Barbara Lewis,Marcustown,90515,711,43860,20,65.0,True,Approved
+Daniel Robinson,Debrastad,53819,344,5412,13,45.0,False,Rejected
+Randall Porter,Lake Amandashire,36590,475,17511,6,20.0,False,Rejected
+Vicki Horton,West Gregory,64099,625,44671,30,50.0,False,Rejected
+Alan Barr,Reyesbury,79689,815,39500,0,65.0,True,Approved
+Luis Mosley,Joelchester,72906,549,41616,5,30.0,False,Rejected
+James Phillips,South James,57742,338,16601,38,40.0,False,Rejected
+Jill Wiley MD,Dawnton,89598,833,28190,18,85.0,True,Approved
+Crystal Quinn,Johnside,72840,355,44581,15,35.0,False,Rejected
+Melissa Walker,Boydburgh,74236,752,42273,0,55.0,False,Rejected
+John Mckay,Lake Victoriaborough,129775,428,7013,11,60.0,True,Approved
+Sandra Frederick,New Christian,145296,778,21412,10,90.0,True,Approved
+Danielle Thompson,West Justin,79692,759,42654,12,75.0,True,Approved
+Richard Miller,Raymondburgh,66471,782,29926,27,70.0,True,Approved
+Nancy Wolf,Smithfurt,128567,737,6454,19,85.0,True,Approved
+Brittany Barber,Oscarport,139041,764,19561,24,90.0,True,Approved
+Karen Cook,Gonzalezborough,85255,304,1841,32,55.0,False,Rejected
+Jacqueline Sullivan,Bentleystad,63065,693,33083,19,60.0,True,Approved
+Leah Ortiz,North Paulshire,139433,466,13728,27,60.0,True,Approved
+Patricia Walton,Williamfort,40735,677,46642,3,40.0,False,Rejected
+Tammy Fitzgerald,South Austin,91644,670,42350,1,50.0,False,Rejected
+Maria Green,Blackburnberg,32540,560,17214,38,25.0,False,Rejected
+Mary Martin,Port Christopherfurt,128176,707,47272,37,75.0,True,Approved
+Angela Kent,Martinchester,100702,558,46340,19,45.0,False,Rejected
+Kim Tanner,Jessicaland,36826,411,42692,36,25.0,False,Rejected
+Haley Thomas,Lake Raymond,75870,615,1420,10,70.0,True,Approved
+April Jones,Warrenport,59389,741,12182,11,80.0,True,Approved
+Michael Gonzalez,New Stacy,115215,761,38164,13,85.0,True,Approved
+Anthony White,West Tonya,38993,718,29883,40,50.0,False,Rejected
+Ashley Fields,West Christopherville,132397,583,5211,21,75.0,True,Approved
+David Washington,North Brucetown,115426,342,7346,13,60.0,True,Approved
+Adrienne Morrison,Sarahfort,35276,645,40608,27,40.0,False,Rejected
+Michael Cooper,Lisastad,128858,708,25801,39,80.0,True,Approved
+Henry Rivera,North Stephenfurt,34067,442,2682,38,40.0,False,Rejected
+Joseph Tapia,West Shannon,62411,786,34745,26,70.0,True,Approved
+April Little,Allenstad,56130,346,49222,20,35.0,False,Rejected
+Cynthia Washington,West Ronniefort,139999,402,49121,24,50.0,False,Rejected
+Cory Thomas,East Tylerland,32671,608,45109,35,40.0,False,Rejected
+Mrs. Stephanie Friedman,Batesbury,111439,549,14870,10,55.0,False,Rejected
+Mary Davis,Holdertown,49973,464,22397,24,25.0,False,Rejected
+Connie Scott,Lynnville,61266,439,36031,40,35.0,False,Rejected
+Ann Holt,New Katie,46544,366,43204,21,25.0,False,Rejected
+Mitchell Fitzgerald,Valdezside,92070,747,16293,14,85.0,True,Approved
+Earl Rodriguez,Joyborough,117747,418,38541,23,50.0,False,Rejected
+Erik James,West Bryanside,44993,494,26437,27,25.0,False,Rejected
+Jacob Shelton,New Elizabeth,103920,527,7985,25,60.0,True,Approved
+Samuel Stewart,Maryfort,58569,766,10661,38,80.0,True,Approved
+Paul Sweeney,New Lukehaven,90952,426,18920,36,50.0,False,Rejected
+Ronald Simpson,Brownmouth,121680,456,47973,13,50.0,False,Rejected
+Taylor Walker,Port Kimberlyfort,63586,701,20601,10,65.0,True,Approved
+Kimberly Rogers DDS,Katherinefurt,130518,373,35592,18,50.0,False,Rejected
+Thomas Haynes,Davismouth,78351,355,47503,19,40.0,False,Rejected
+Christopher Taylor,Carterberg,51992,514,15295,12,40.0,False,Rejected
+Alexa Barber,Lake Kristenberg,109415,685,28991,10,75.0,True,Approved
+Anne Mccann,North David,109593,827,43604,21,90.0,True,Approved
+Tracy Sims,Sanchezville,128032,546,26994,31,55.0,False,Rejected
+Kyle Thompson,Parsonsland,124156,774,43618,24,85.0,True,Approved
+Matthew Richardson,North Christopherfort,45012,821,15741,1,55.0,False,Rejected
+Victoria Mendoza,Port Brittanyfurt,131946,795,43244,27,85.0,True,Approved
+Calvin Nguyen,South Lisa,137387,320,26807,35,55.0,False,Rejected
+Rachel Moreno,New Maryside,51465,427,14596,7,35.0,False,Rejected
+Kyle White,Mcbrideville,70768,340,9442,36,45.0,False,Rejected
+Christopher Hart,North Tinahaven,44168,605,24826,34,40.0,False,Rejected
+William Barrett,West Brandon,105849,831,20228,34,95.0,True,Approved
+Kenneth Neal,Catherinehaven,33365,514,46084,6,20.0,False,Rejected
+Amanda Johnson,West Melissa,70888,520,9795,38,45.0,False,Rejected
+Leslie Ramirez,Jonesview,105470,566,26020,10,55.0,False,Rejected
+Bradley King,Bentleyberg,118781,848,14353,4,85.0,True,Approved
+Debra Schultz,Lake Nathan,149016,823,40645,10,90.0,True,Approved
+Christian Riddle,Graybury,79192,379,18702,7,45.0,False,Rejected
+Melinda Russell,Daniellestad,81990,641,18907,9,60.0,True,Approved
+Courtney Smith,Pettybury,123718,687,7881,7,80.0,True,Approved
+Nicholas Parker,Davisstad,55995,588,37145,17,50.0,False,Rejected
+Stephanie Jackson,Whiteside,39961,712,32251,37,50.0,False,Rejected
+Adam Palmer,Lake David,107607,687,38195,17,75.0,True,Approved
+Nicholas Villegas,Lake Charlotte,120520,768,12999,28,90.0,True,Approved
+Dr. Kathryn Hill,Meyerbury,138864,612,42656,5,60.0,True,Approved
+Jennifer Edwards,Lake Christopherbury,112213,395,11820,36,55.0,False,Rejected
+Patrick Spencer,Stokestown,61830,734,45370,32,60.0,True,Approved
+Breanna Jimenez,South Alexanderborough,43356,307,47803,27,25.0,False,Rejected
+Nicole Sanchez,New Shaneburgh,121382,836,15750,11,95.0,True,Approved
+Ryan Palmer,South Tylerburgh,131250,682,8420,21,85.0,True,Approved
+Danielle Ryan,West Kevinport,69529,571,14963,0,30.0,False,Rejected
+Laura Robinson,Sarahhaven,141449,336,31346,39,55.0,False,Rejected
+Amy Smith,Murphystad,119687,409,1337,22,60.0,True,Approved
+Charlotte Gomez,South Travisland,108697,841,34706,9,85.0,True,Approved
+Thomas Smith,Jeremyfurt,135582,683,20613,23,80.0,True,Approved
+Clarence Cain,South Dianamouth,45866,465,10166,22,35.0,False,Rejected
+Abigail Stephenson,North Jake,134363,341,9760,25,60.0,True,Approved
+Gary Johnson,South Susan,104177,572,8785,26,60.0,True,Approved
+Jon Maldonado Jr.,Shawfurt,132581,434,8191,6,55.0,False,Rejected
+Beth Cooper,Port Gabrielleton,35383,650,29158,38,40.0,False,Rejected
+Jessica Roberts,Millerchester,75508,553,41475,9,35.0,False,Rejected
+Chelsea Campbell,Port Josephbury,99827,739,14003,30,75.0,True,Approved
+Rhonda Haynes,East Victoria,86148,452,16032,7,45.0,False,Rejected
+Andrew Mooney,South Andres,116706,504,6959,3,50.0,False,Rejected
+Joseph Graves,East Matthew,78571,790,5020,32,90.0,True,Approved
+Anthony Rodriguez,Juanstad,39038,728,17185,20,50.0,False,Rejected
+Catherine Smith,Jasonfort,96317,586,40749,6,50.0,False,Rejected
+David Henry,Kevinville,114874,313,45758,35,50.0,False,Rejected
+Bianca Ward,Juliashire,74725,841,40630,23,75.0,True,Approved
+Donald Silva,North Davidville,31658,342,39440,12,25.0,False,Rejected
+Jeremy Garcia,Kevinfort,141355,506,35967,9,45.0,False,Rejected
+Corey Pierce,Patriciaside,85057,655,24986,28,60.0,True,Approved
+Autumn Graham,Barneshaven,137784,322,11940,38,60.0,True,Approved
+Walter Roberts,Port Teresaborough,94251,707,33442,34,70.0,True,Approved
+Valerie Martin,Hartfurt,43833,710,40794,17,50.0,False,Rejected
+Aaron Armstrong,Port Williamhaven,86822,837,17962,19,90.0,True,Approved
+Elizabeth Adams,East Jeffreyside,77472,543,20126,2,35.0,False,Rejected
+Teresa Ramirez,West Morgan,113307,352,43101,15,50.0,False,Rejected
+Christine Wilson DDS,Markside,146860,570,48322,8,45.0,False,Rejected
+Logan Nguyen,Lake Lisastad,138620,524,48872,17,50.0,False,Rejected
+Wesley Medina,Lake Juliefurt,90258,563,42040,40,40.0,False,Rejected
+Christine Ramos,Josephshire,122708,704,11200,28,85.0,True,Approved
+Nicholas Richardson,Davisburgh,50052,770,13125,11,75.0,True,Approved
+John Blair,Andrewburgh,87080,481,26834,38,45.0,False,Rejected
+Charles Simmons,Stoutfurt,53086,402,48468,33,35.0,False,Rejected
+Paul Smith,South Patrickville,126180,313,43236,2,40.0,False,Rejected
+Randy Adams,Port Tammyville,98386,646,47363,5,50.0,False,Rejected
+John Hart,Ochoaport,115256,639,32385,9,60.0,True,Approved
+Joshua Adams,North Malloryville,65400,603,7721,32,60.0,True,Approved
+Jennifer Smith,North Jeremy,110728,694,10658,22,85.0,True,Approved
+Courtney Koch,Mcdanielville,135932,803,12112,7,95.0,True,Approved
+Tyler Campbell,New Matthewstad,100539,386,3840,38,60.0,True,Approved
+Jeffrey Rogers,Lake Ronald,131533,608,41944,18,65.0,True,Approved
+Brian Hendricks,Sarahland,93372,302,10741,9,45.0,False,Rejected
+James Griffith,Briggsville,90931,737,48625,17,65.0,True,Approved
+Frank Anderson,Gomezfort,87091,734,32541,26,70.0,True,Approved
+Mallory Taylor,South Robert,138230,809,36307,34,90.0,True,Approved
+Joshua Hall Jr.,Rosebury,125817,389,16413,23,55.0,False,Rejected
+Xavier Smith,Rosarioville,107656,361,23894,23,55.0,False,Rejected
+Sharon Fuentes,Stevenside,65179,731,16892,13,65.0,True,Approved
+Amy Taylor,South Jessica,72245,734,25358,3,55.0,False,Rejected
+Mary Jones,North Dylan,141635,444,6176,15,60.0,True,Approved
+Keith Cervantes,Port Ian,62177,443,35566,19,35.0,False,Rejected
+Nathan Wallace,West Danielton,138885,332,40595,11,50.0,False,Rejected
+Alexandra Wall,Spencerview,41359,813,21056,14,65.0,True,Approved
+Christopher Dudley,Spenceberg,66559,516,27240,39,35.0,False,Rejected
+James Carson,Port Heatherfort,145557,620,43775,25,65.0,True,Approved
+Carmen Pratt,Leeville,89087,406,6099,23,55.0,False,Rejected
+Sarah Johnson,Franciscoville,61963,366,14887,38,45.0,False,Rejected
+Theodore Lopez,Lake Sarah,128366,546,18640,5,50.0,False,Rejected
+Krystal Elliott,Williamsmouth,90910,395,21224,0,35.0,False,Rejected
+Dr. Tina Porter,Karenstad,104691,432,47049,6,40.0,False,Rejected
+Steven Gordon,North Brenda,109997,691,32257,37,75.0,True,Approved
+Amanda Martin,Millerland,117580,537,15132,9,50.0,False,Rejected
+Candace Stuart,Sethberg,79674,647,20060,23,60.0,True,Approved
+Teresa Williams,Allenland,74092,456,38152,40,35.0,False,Rejected
+Anne Smith PhD,Amyland,33761,810,7167,29,75.0,True,Approved
+Timothy Martin,Barbarastad,94789,391,5661,11,55.0,False,Rejected
+Julia Andersen,Kathrynmouth,141536,443,9124,36,60.0,True,Approved
+Jack Mitchell MD,South Michael,72600,621,25489,5,50.0,False,Rejected
+Katie Baker,New Tiffanyton,53834,550,46858,35,35.0,False,Rejected
+Samuel Roberts,New Reginald,93904,374,15617,24,50.0,False,Rejected
+Maureen Bailey,Daymouth,57802,411,6624,11,45.0,False,Rejected
+Sylvia Nielsen,Gonzalezmouth,76507,366,21793,21,45.0,False,Rejected
+Katelyn Park DDS,Shawnside,134573,459,31799,9,50.0,False,Rejected
+Erica Johnson,Brownstad,63862,740,32025,13,70.0,True,Approved
+Sean Cisneros,Nelsonburgh,74608,385,10288,4,35.0,False,Rejected
+Brad Russo,Savagehaven,66655,519,44885,16,35.0,False,Rejected
+Anthony Jacobson,Petersonport,145385,468,14015,22,60.0,True,Approved
+Karen Nichols,Lake Samuel,108139,698,1650,35,85.0,True,Approved
+Linda Miller,West Elizabeth,121905,624,1929,9,70.0,True,Approved
+Taylor Porter,Danielchester,145357,569,35124,0,40.0,False,Rejected
+Terri Mathews DDS,North Jefferyborough,66211,730,46642,34,60.0,True,Approved
+Lindsay Robinson,East Teresa,102848,314,25265,23,55.0,False,Rejected
+Steven Shaw,Lake Victormouth,31330,723,27895,22,50.0,False,Rejected
+Joshua Mills,Danielburgh,97715,769,29074,23,80.0,True,Approved
+Kurt Daniels,Mitchellchester,55042,590,47012,39,50.0,False,Rejected
+Susan Garcia,Port Maryland,41221,316,41387,26,25.0,False,Rejected
+Paul Hanson,Lake Seanshire,61635,333,44759,18,35.0,False,Rejected
+Christy Frank,Wilsonfort,124381,427,23977,29,55.0,False,Rejected
+Robert Padilla,Smithstad,83271,529,34263,18,40.0,False,Rejected
+Matthew Parker,Nuneztown,94038,724,3141,0,65.0,True,Approved
+Richard Randall,Matthewshire,102768,740,16848,35,90.0,True,Approved
+Cheryl Newman,Port Sarahchester,129374,431,42698,24,50.0,False,Rejected
+Carrie Strong,South Jerry,61499,429,34046,7,30.0,False,Rejected
+Rachel Cameron,Maryburgh,120519,630,14353,5,65.0,True,Approved
+Jeffrey Fuller,North Christine,92402,380,38473,24,40.0,False,Rejected
+Nicholas Lucero,Jacobbury,114659,604,13702,34,70.0,True,Approved
+Molly Roman,Townsendton,123302,581,6437,9,70.0,True,Approved
+Margaret Riley,North Stephenville,94332,409,10295,18,50.0,False,Rejected
+Christopher Jones,Robertaborough,88743,700,7597,31,80.0,True,Approved
+Jennifer Tucker,East Gracefurt,133931,621,42520,28,65.0,True,Approved
+Keith Obrien,North Theresastad,32260,795,41239,38,60.0,True,Approved
+Brooke Harmon,East Catherineside,42196,323,34947,32,25.0,False,Rejected
+Cindy Diaz,North Mark,68566,525,6468,8,45.0,False,Rejected
+John Ashley,Jeanport,59045,778,49837,31,70.0,True,Approved
+Travis Nielsen,Geraldview,83005,702,7743,37,80.0,True,Approved
+Laurie Martin,Lake Tony,120673,756,28770,38,90.0,True,Approved
+Rose Dean,Pattersonshire,61890,661,25507,40,50.0,False,Rejected
+Joanna Preston,Brendaport,70135,843,24085,25,80.0,True,Approved
+Christopher Morris,West John,117026,520,44054,23,50.0,False,Rejected
+Richard Martinez,Haleymouth,106225,518,31498,36,50.0,False,Rejected
+Stephanie Hoffman,Campbellborough,78368,839,15251,6,85.0,True,Approved
+Michelle Shah,New Patriciachester,92031,745,21826,20,85.0,True,Approved
+Anthony Snyder,West Robertville,102544,763,12215,38,90.0,True,Approved
+James Ray,Andrewshire,99588,304,31262,18,45.0,False,Rejected
+Walter Johnson,West Deannaland,75056,781,7233,26,90.0,True,Approved
+Denise Molina,Millermouth,85771,805,41129,3,70.0,True,Approved
+Michael Gibson,Port Nathanielville,127771,329,15681,3,45.0,False,Rejected
+Brenda Holder,Perezland,102140,495,48455,23,45.0,False,Rejected
+Amy Ware,North Brandonport,73357,376,18283,21,45.0,False,Rejected
+Rebecca Gray,East Brandy,76112,422,9276,20,50.0,False,Rejected
+Nicole Barron,Walshville,122124,834,35576,15,90.0,True,Approved
+Mary Bray,Kendrafort,89473,531,7016,16,55.0,False,Rejected
+Michelle Gomez,Lake Deborah,65509,510,46545,4,25.0,False,Rejected
+Johnny Lewis,South Lori,70189,492,32958,6,30.0,False,Rejected
+Robert Gill,Kathleenport,62951,764,43945,9,65.0,True,Approved
+Ashley Anderson,Paulmouth,60217,825,14305,25,85.0,True,Approved
+Donald Martin,Stephanieshire,45814,404,10652,29,35.0,False,Rejected
+Natasha Allen,Lopeztown,124540,787,44377,33,85.0,True,Approved
+Derek Mcintosh,West Ryanberg,55242,706,33911,27,60.0,True,Approved
+Amy Nelson,North Deborahchester,71359,498,20267,12,40.0,False,Rejected
+Kirk Moreno,Stoneville,45670,351,43358,15,25.0,False,Rejected
+Colleen Brown,New Josephland,127370,844,7621,17,100.0,True,Approved
+Manuel Baldwin,Longbury,100236,574,33451,13,50.0,False,Rejected
+Dalton Walsh,Jessicaville,129901,489,33980,39,50.0,False,Rejected
+Eric Knox,East Leslie,120461,371,11921,11,60.0,True,Approved
+Jesse Rivers,Pattersontown,54267,481,18290,4,30.0,False,Rejected
+Philip Smith,Tarashire,55105,301,33001,15,35.0,False,Rejected
+Andrew Smith,Maryhaven,58361,815,11964,9,80.0,True,Approved
+Ariel Lara,Shaunstad,126810,563,44477,31,50.0,False,Rejected
+Jimmy Carey,Jenniferhaven,93464,795,8389,17,90.0,True,Approved
+Monica Smith,Chaseberg,66241,665,33625,1,35.0,False,Rejected
+Patrick Mcpherson,Jamieland,124972,498,25758,40,55.0,False,Rejected
+Donald Sims,Archerhaven,107278,479,18387,22,55.0,False,Rejected
+Jeanne Butler,Kyleton,129641,832,46995,21,90.0,True,Approved
+Barbara Pope,Keithtown,98765,810,45926,9,75.0,True,Approved
+Chris Levy,West Tommy,108222,366,20315,0,40.0,False,Rejected
+Daniel Petersen,North Tracytown,67093,740,24085,0,60.0,True,Approved
+Chad Koch,North Jennifer,43176,446,49041,12,25.0,False,Rejected
+Thomas Carter,South Sarahbury,139134,695,28693,25,80.0,True,Approved
+Annette Green,Carlaburgh,55443,746,45493,20,70.0,True,Approved
+Brenda Saunders,Derekside,68829,504,20730,19,40.0,False,Rejected
+Keith Fuller,South Kimberly,59816,747,7294,8,75.0,True,Approved
+Melissa Gordon,Taylorchester,77301,777,28558,26,80.0,True,Approved
+Thomas Johnson,Davisberg,53519,609,16902,37,55.0,False,Rejected
+Bethany Daniels,Brianfurt,69618,428,27407,0,25.0,False,Rejected
+Phillip Holmes,North Brianville,31854,641,39950,6,35.0,False,Rejected
+Krystal Vaughn,North Joyhaven,122801,354,46978,13,50.0,False,Rejected
+Kristina Coffey,East Patty,100010,458,20719,40,55.0,False,Rejected
+William Smith,Hansonborough,46591,417,5400,0,20.0,False,Rejected
+Spencer Meyer,East Dale,65954,325,34148,28,35.0,False,Rejected
+Timothy Evans,Mcgrathbury,35965,566,41157,28,25.0,False,Rejected
+Lisa Reynolds,East Donaldbury,37146,474,34522,34,25.0,False,Rejected
+John Roberts,New Trevorview,102529,700,26285,6,70.0,True,Approved
+Robert Hernandez,Stephenshire,68290,698,1722,37,75.0,True,Approved
+Matthew Barry,Williamsstad,121411,442,31664,29,50.0,False,Rejected
+William Howard,West Rachel,46551,837,26599,32,65.0,True,Approved
+Matthew Bell,Stephenberg,113606,585,44151,19,65.0,True,Approved
+Andrea Franco,Bennettfort,143830,484,38751,32,50.0,False,Rejected
+Kelly Anderson,Briannashire,128669,656,39305,39,65.0,True,Approved
+Andrea Johnson,East Colin,94340,408,33730,30,45.0,False,Rejected
+David Ingram,North Rachel,43446,478,48720,24,25.0,False,Rejected
+Jennifer Brown,Dannyland,144389,752,25531,38,90.0,True,Approved
+Alyssa Thompson,Lake Shannonberg,31607,504,13826,16,25.0,False,Rejected
+Michael Perez DDS,Cervantesborough,105243,388,39149,1,35.0,False,Rejected
+Mary Harris,North Michael,67268,717,38243,34,60.0,True,Approved
+Gina Fleming,Leeborough,91524,785,33823,22,80.0,True,Approved
+Steven Castaneda,South Ronaldfurt,92746,372,38299,5,35.0,False,Rejected
+Joseph Garcia,Hallside,87733,638,2477,14,70.0,True,Approved
+Donna Clayton,Warnerland,74657,461,19878,4,30.0,False,Rejected
+Dana Holmes,Reginaldton,54164,413,39192,30,35.0,False,Rejected
+Victoria Delgado,West Robertborough,36734,642,4892,8,45.0,False,Rejected
+Robert Rivera,East Trevorshire,63092,336,23665,4,30.0,False,Rejected
+Linda Salazar,New Timothyberg,142947,577,48404,2,40.0,False,Rejected
+Jonathan Perez,Ryanport,92616,533,2405,3,45.0,False,Rejected
+Richard Gonzalez,Flemingtown,44953,793,4417,24,75.0,True,Approved
+Melissa Jordan,Dunnville,137756,748,8732,39,95.0,True,Approved
+Mrs. Cheryl Kim,East Jesseshire,38564,310,15884,26,25.0,False,Rejected
+Stacy Mcguire,Port Alexisbury,82521,358,6020,3,45.0,False,Rejected
+Christopher Williams,Carriebury,94454,599,9501,38,65.0,True,Approved
+Matthew Douglas,West Shawnaborough,39710,806,47219,22,65.0,True,Approved
+Shannon Wallace,Shellyside,105631,599,43837,15,60.0,True,Approved
+Debra Wolfe,North Michaelchester,112502,797,19335,5,85.0,True,Approved
+Chad Daugherty,West Judy,119974,515,9044,23,60.0,True,Approved
+Rachel Johnson,Lake Scott,37026,764,8486,1,55.0,False,Rejected
+Mr. Donald Cruz PhD,North Joshuafurt,49887,807,2235,24,80.0,True,Approved
+Andrew Harris,Lake Ryan,49555,353,44280,19,25.0,False,Rejected
+Phillip Pineda,Sandraview,136318,521,2792,21,60.0,True,Approved
+Lisa Glenn,Port Danielfurt,103772,594,36046,29,65.0,True,Approved
+Nathan Mack,Franciscofurt,69824,778,49865,15,70.0,True,Approved
+Adrian Marsh,Christopherbury,41164,602,23120,36,40.0,False,Rejected
+Luis Ward,Kimberlytown,62530,427,21112,36,40.0,False,Rejected
+Sara Abbott,Fordmouth,45525,309,31568,2,15.0,False,Rejected
+Karen Richard,South Brian,103147,381,19117,39,55.0,False,Rejected
+Tiffany Alexander,Katieview,130197,565,33435,8,45.0,False,Rejected
+Christopher Pitts,East Dannyton,84548,488,45855,32,40.0,False,Rejected
+Lauren Williams,North Stephanie,109471,565,17871,1,40.0,False,Rejected
+Shannon Gomez,New Jimmyville,108135,379,34222,28,50.0,False,Rejected
+Billy Harris,Mariachester,133643,373,43066,27,50.0,False,Rejected
+Briana Nguyen,Matthewchester,111057,683,31846,18,75.0,True,Approved
+Caitlin Williams,New Anthony,59581,516,21519,32,40.0,False,Rejected
+Natalie Logan,Shelbyfurt,131671,333,44061,9,45.0,False,Rejected
+Zachary Miller,East Arianashire,98494,728,36321,7,65.0,True,Approved
+Kelsey Williams,Hopkinshaven,79856,751,21770,17,80.0,True,Approved
+Kenneth Bartlett,Johnstad,89049,536,30872,20,45.0,False,Rejected
+Shirley Cox,Annland,149079,670,43816,30,75.0,True,Approved
+Joann Barnes,New John,88028,717,45178,37,65.0,True,Approved
+Lisa Flynn,Leeland,68974,718,28592,32,60.0,True,Approved
+Ms. Mackenzie Barton,South Alexis,142743,423,28435,16,55.0,False,Rejected
+Michelle Harrison,East Mollychester,107139,324,46222,10,45.0,False,Rejected
+Brandi Camacho DVM,Gomezfurt,86207,547,47660,18,40.0,False,Rejected
+Steven Villanueva,Lake Brandonstad,70026,759,27796,40,75.0,True,Approved
+Ruben Roberts,Gravesburgh,104531,821,6491,9,95.0,True,Approved
+Linda Wood,Graymouth,111399,480,34336,37,50.0,False,Rejected
+Raymond Hall,Petersonshire,37894,830,35419,37,65.0,True,Approved
+Tanya Mitchell,Floresburgh,109905,446,3748,13,60.0,True,Approved
+Donald Hobbs,Coryport,127004,469,8769,18,60.0,True,Approved
+Jeffrey Mcclure,Sheilaview,43006,408,16183,17,30.0,False,Rejected
+Daniel Roberson,North Carmen,129973,340,36378,34,50.0,False,Rejected
+Adriana Wall,West Jamesshire,57235,736,48978,28,60.0,True,Approved
+Sandra Phillips,Lake Jasmineville,111987,755,29328,31,85.0,True,Approved
+Sean Kaiser,West Lindabury,57659,376,22437,10,40.0,False,Rejected
+Desiree Mccoy,Lake Haileyton,64687,743,7582,33,80.0,True,Approved
+Ryan Guerrero,Lake Courtneybury,116563,440,39426,24,50.0,False,Rejected
+Connie Gonzalez,Hernandezburgh,40641,808,19520,8,60.0,True,Approved
+Shawn Tapia,North Ryan,50585,802,37551,39,75.0,True,Approved
+Christopher Barnes,Christinashire,61439,540,42793,22,35.0,False,Rejected
+Mr. Christopher Evans,West Elizabeth,52782,801,42289,25,75.0,True,Approved
+Kimberly Phillips,North Sydney,102350,594,28498,28,65.0,True,Approved
+Matthew Wilson,Huberville,39838,655,46676,25,40.0,False,Rejected
+Patricia Webb,Burkebury,50517,329,20066,17,40.0,False,Rejected
+Stacy Patton,New Kelseyview,30350,625,27950,25,40.0,False,Rejected
+Jessica Green,West Toddbury,83545,647,42698,2,45.0,False,Rejected
+Jason Armstrong,New Jamie,89048,412,41193,39,40.0,False,Rejected
+Larry Smith,Port Nicholasmouth,120357,661,37234,4,55.0,False,Rejected
+Kelly Cox,East Mary,107832,705,48043,14,70.0,True,Approved
+Christopher Brooks,Lewisbury,91592,313,3364,1,40.0,False,Rejected
+Kelsey Mason,Williamsport,68175,608,2588,14,65.0,True,Approved
+Melissa Johnson,Port Kristenfurt,34278,434,49531,17,25.0,False,Rejected
+Angela Wagner,Smithside,60340,455,7262,37,45.0,False,Rejected
+Cheyenne Obrien,Kristenchester,67762,824,49724,1,60.0,True,Approved
+Jimmy Garcia,Bennettchester,122662,395,15565,26,55.0,False,Rejected
+Karen Velez,South Andre,67056,808,48681,25,75.0,True,Approved
+Pamela Klein,Walkertown,122141,706,16211,28,80.0,True,Approved
+Justin Day,Douglasland,142670,397,37758,10,50.0,False,Rejected
+Tom Watkins,East Richardfort,89510,835,48384,36,80.0,True,Approved
+Amy Snyder,Collinsmouth,39329,454,3392,20,40.0,False,Rejected
+Linda Savage,Hannahside,120096,800,36755,31,90.0,True,Approved
+Matthew Morris,Robertsonland,60595,407,28898,4,25.0,False,Rejected
+Peter Martin,East Jamesville,64675,339,28799,31,35.0,False,Rejected
+Robert Freeman,Rossport,133262,420,29539,18,55.0,False,Rejected
+Shirley Nelson,Christinastad,133710,469,10274,18,60.0,True,Approved
+Christine Mendez,Aprilview,111927,783,31335,13,85.0,True,Approved
+Tammy Cortez,East Alice,107304,785,1643,20,95.0,True,Approved
+Chris Jones,West Jacquelineborough,116662,396,36240,29,50.0,False,Rejected
+Antonio Harrison,North Michael,135369,531,23607,40,55.0,False,Rejected
+Corey Mitchell,Silvaport,55928,676,41927,25,60.0,True,Approved
+Kristina May,North Brittany,85723,405,48884,13,40.0,False,Rejected
+Dennis Garcia,Riverashire,45043,583,49317,39,40.0,False,Rejected
+Kara Jackson,East Christopher,101376,450,10393,10,55.0,False,Rejected
+Aaron Miller,East Williammouth,59466,735,44571,30,60.0,True,Approved
+Jonathan Wilson,Bennettfurt,114886,785,24264,19,90.0,True,Approved
+Emily Miller,East Sonia,49528,584,47618,9,35.0,False,Rejected
+Kristina Henry,Ginaside,149067,745,43735,22,85.0,True,Approved
+Sean Wyatt,Jessicaborough,64816,495,26064,23,35.0,False,Rejected
+Joseph Smith,Markstad,138348,559,33951,0,40.0,False,Rejected
+Amanda Hill,Sandersview,48643,580,41977,3,30.0,False,Rejected
+Samantha Roy,Osbornmouth,39359,802,12388,30,70.0,True,Approved
+Maria Gardner,North Mikeberg,37816,481,9627,5,25.0,False,Rejected
+Ryan Brown,West Connorside,51747,584,13725,39,55.0,False,Rejected
+Faith Powers,Rachaelburgh,133891,675,34838,0,60.0,True,Approved
+Jennifer Monroe,North Jameshaven,70319,451,48772,17,35.0,False,Rejected
+Jeremy Hill,Lake William,107993,477,42635,0,35.0,False,Rejected
+Justin Wilson,Carrollland,128167,774,6777,7,90.0,True,Approved
+Catherine Miller,Brittanytown,138034,473,1684,13,60.0,True,Approved
+Julia Wiley,West Mary,104607,495,49982,8,40.0,False,Rejected
+James Mitchell,Donaldmouth,67828,723,15808,12,70.0,True,Approved
+Curtis Krause,Heidiview,87560,394,33105,22,45.0,False,Rejected
+Hannah May,Gallegosburgh,46299,337,39353,24,25.0,False,Rejected
+Keith Chaney,Reedport,91433,512,23425,32,45.0,False,Rejected
+Natalie Adams,West Jeffery,120266,567,3060,7,55.0,False,Rejected
+Lynn Alvarez,Willisstad,69857,686,44142,37,60.0,True,Approved
+Erica Garcia,Mistytown,121715,462,28617,30,55.0,False,Rejected
+Elizabeth Owens,Port Andrew,82757,767,39900,36,75.0,True,Approved
+Monica Wells,West Jennifer,65683,645,32624,25,50.0,False,Rejected
+Wesley Rich,South Ronaldview,95597,710,39867,1,50.0,False,Rejected
+Christopher Turner,New Karen,100776,433,44477,21,45.0,False,Rejected
+Amy Davis,Port Michael,94722,705,11835,29,75.0,True,Approved
+Charles Andrade,Kyleburgh,87377,541,14324,27,50.0,False,Rejected
+David Cohen,Adamburgh,40543,652,7547,30,50.0,False,Rejected
+Jennifer Lewis,Barnettmouth,108385,548,7279,24,60.0,True,Approved
+Phillip Anderson,Rachaelchester,35224,703,36003,4,40.0,False,Rejected
+Michael Cordova,East Nicoleburgh,146578,540,25191,23,55.0,False,Rejected
+Rodney Bishop,Melendezbury,86626,441,33764,12,45.0,False,Rejected
+Eric Davis,Valdezchester,126276,454,19675,19,55.0,False,Rejected
+Roberto Johnson,Whitefurt,72247,829,7975,29,85.0,True,Approved
+Hannah Oconnor,Laratown,109129,464,21907,8,50.0,False,Rejected
+Janet Gibson,Valdezfurt,62816,732,4572,19,75.0,True,Approved
+Patrick Wilson,Shawfort,33390,643,36063,23,40.0,False,Rejected
+Christopher Coleman,Bergland,41970,453,1455,21,40.0,False,Rejected
+Michelle Scott,Grahammouth,60005,588,3611,7,60.0,True,Approved
+Julia Williams,Johnnymouth,118381,603,2542,34,75.0,True,Approved
+Edward Butler,Nguyenton,139570,414,24412,2,45.0,False,Rejected
+Jennifer Thompson,East Jessicafort,142789,741,19002,22,90.0,True,Approved
+Melissa Sanchez,Williamsmouth,105392,681,3509,9,80.0,True,Approved
+Misty Burnett,South Williamland,106955,645,42729,19,65.0,True,Approved
+Alex Clements,Jenniferland,32719,743,8630,12,65.0,True,Approved
+Whitney Gilbert,Lake Lauren,130238,683,38574,30,75.0,True,Approved
+Timothy Hill,West Walter,118117,346,40624,25,50.0,False,Rejected
+Megan Nelson,Clarkchester,137665,432,19007,17,55.0,False,Rejected
+Richard Reid,East Jeffreymouth,65325,526,5176,39,50.0,False,Rejected
+Michael Wilcox,Waltersmouth,105529,698,32169,35,75.0,True,Approved
+Gilbert Reed,Hernandezfort,35273,515,35880,10,25.0,False,Rejected
+Dawn Johnson,Lake Tommystad,130022,385,14602,33,55.0,False,Rejected
+Edgar Stewart,Johnsonshire,129125,470,41911,22,50.0,False,Rejected
+Jennifer Hubbard,Angelafort,52962,540,25594,34,35.0,False,Rejected
+Lawrence Atkinson,South Jefferyville,91669,596,12706,10,65.0,True,Approved
+Victoria Werner,Bellborough,98021,728,40272,17,65.0,True,Approved
+Jack Garcia,Wayneside,115394,701,15752,25,80.0,True,Approved
+John Mckenzie MD,South Keith,87963,845,22892,29,85.0,True,Approved
+Melinda Garcia,Mccannchester,66458,493,42708,1,20.0,False,Rejected
+Brenda Harvey,New Ashleychester,53788,323,22300,39,35.0,False,Rejected
+Keith Kennedy,West Andrewfurt,106720,823,13650,10,95.0,True,Approved
+Nathan Allen,Gilesborough,87132,630,9693,18,65.0,True,Approved
+Andre Lane,Sanchezmouth,113202,547,12591,29,55.0,False,Rejected
+Ashley Munoz,Monicaburgh,136724,550,31291,4,45.0,False,Rejected
+Andrew Rhodes,Atkinsland,94451,727,18041,34,75.0,True,Approved
+Ricardo Holland,South Timothyton,41959,599,27109,2,30.0,False,Rejected
+Mitchell Hunt,Pattersonville,91605,406,10567,16,50.0,False,Rejected
+Lauren Moody,West Robert,75607,647,10302,15,65.0,True,Approved
+Christine Davis,South Rachelfort,83523,550,18039,21,50.0,False,Rejected
+Jeremy Cobb,Ashleyton,73687,443,10700,33,45.0,False,Rejected
+Daniel Wood,Jenniferport,72081,462,38200,40,35.0,False,Rejected
+Micheal Nunez,Lake Linda,117835,431,10602,38,60.0,True,Approved
+James Walsh,Port Jasonport,43710,451,39288,0,10.0,False,Rejected
+Nathan Mcgee,Woodsburgh,142424,652,43195,9,60.0,True,Approved
+Kathryn Mills,Grimesfort,51079,473,35421,30,35.0,False,Rejected
+Steven Smith,West Jeffreyborough,73228,529,10836,17,45.0,False,Rejected
+Monica Wilson,West Victor,83955,312,49906,33,40.0,False,Rejected
+Natalie Cox,South Conniemouth,120921,819,5403,17,100.0,True,Approved
+Kimberly Figueroa,Port Brianshire,94942,835,17251,15,90.0,True,Approved
+Patrick Norris,East Hannah,67777,767,12628,2,70.0,True,Approved
+Deborah Ramirez,Lake Mariah,116846,365,9686,33,60.0,True,Approved
+Daniel Sanchez,Marshallside,82488,352,21896,40,45.0,False,Rejected
+John Ramos,Gonzalezside,136635,520,40209,31,50.0,False,Rejected
+Adam Jordan,Lake Oliviaborough,129680,767,1032,16,95.0,True,Approved
+Lindsay Vasquez,West William,102102,826,19596,19,95.0,True,Approved
+Joseph Peterson,Connieville,34809,486,32954,0,10.0,False,Rejected
+William Ruiz,East Cameron,89614,742,45104,19,75.0,True,Approved
+Scott Peterson,East Kimberly,41542,537,14973,19,30.0,False,Rejected
+Erica Moreno,Lake Kevinborough,71224,458,22218,10,40.0,False,Rejected
+James Jackson,New Elaine,63082,633,34847,30,50.0,False,Rejected
+Rachel Chan,Jeremyview,72372,783,20897,23,75.0,True,Approved
+Gene Gomez,Shannonchester,45194,702,28336,0,35.0,False,Rejected
+Jennifer Schmitt,Debbieberg,131259,767,18970,1,75.0,True,Approved
+Christina Bates,Kennethstad,82976,324,22092,27,45.0,False,Rejected
+Erika Castro,Port Jason,143365,815,29842,17,95.0,True,Approved
+David Nguyen,Davidshire,97449,781,4014,24,90.0,True,Approved
+Susan Tucker,Valerieshire,138124,684,4887,6,80.0,True,Approved
+Grant Medina,Mcleanville,30150,783,9800,4,55.0,False,Rejected
+Reginald Gutierrez,Port Edward,116200,606,38623,12,65.0,True,Approved
+Jessica Murphy,Angelaport,143949,322,10205,4,50.0,False,Rejected
+Melissa Stevenson,Rebeccamouth,101118,519,13067,20,55.0,False,Rejected
+Joel Cook,Jonathantown,90552,443,8811,26,55.0,False,Rejected
+Robert Yates,New Nathanielshire,84165,747,3102,32,90.0,True,Approved
+Erin Ryan,Baileyland,37104,377,38047,5,20.0,False,Rejected
+Phyllis Schmidt,New Sandraborough,54586,374,45823,27,35.0,False,Rejected
+Julie Preston,Lake Mark,97952,486,43456,36,40.0,False,Rejected
+Joseph Schwartz,Prestonfurt,77419,600,1416,39,70.0,True,Approved
+Alicia Perez,Hernandezbury,111609,634,35889,29,65.0,True,Approved
+Christina Underwood,Patriciashire,129148,456,13376,9,50.0,False,Rejected
+Christopher Johnson,Port Davidstad,95338,370,22460,20,50.0,False,Rejected
+William Hall,Port Michael,111973,440,29812,7,45.0,False,Rejected
+Jaime Wallace,South Brandon,87939,749,27160,12,80.0,True,Approved
+James Olsen,East Williamshire,129613,828,8975,10,100.0,True,Approved
+Barbara Burns,Karamouth,36764,725,13516,13,55.0,False,Rejected
+Dr. Heather Scott,South Allenfurt,56680,730,27234,6,55.0,False,Rejected
+Tracy Copeland,Bautistaport,65003,534,46954,5,30.0,False,Rejected
+Rhonda Liu,West Jessicamouth,101987,346,10223,15,55.0,False,Rejected
+Adam Stone,Lake Terry,47172,339,5009,38,35.0,False,Rejected
+Sharon Guerrero,Christinaburgh,67752,729,12299,11,70.0,True,Approved
+Traci Harmon,West Natasha,87424,412,11641,1,35.0,False,Rejected
+Mr. Mario Stout III,Anthonytown,145454,639,2867,30,75.0,True,Approved
+Shane Mcintyre,New Nicholashaven,121521,473,11365,6,55.0,False,Rejected
+Steven Davis,North Tanyamouth,93532,725,36174,28,70.0,True,Approved
+Larry Walsh,Thomasview,45915,431,22160,34,25.0,False,Rejected
+Louis Moran,Vasquezshire,33783,500,9246,14,30.0,False,Rejected
+Renee Thomas,Lake Codyfurt,112578,589,41305,6,60.0,True,Approved
+David Blair,Markmouth,109806,832,34875,36,90.0,True,Approved
+Debra Lam MD,Donnashire,134767,335,26233,40,55.0,False,Rejected
+Craig White,Lake Austin,61365,543,11609,25,45.0,False,Rejected
+Kenneth Webb,Jacobshire,123032,715,30629,13,80.0,True,Approved
+Dennis Gonzales,Dianahaven,50758,645,23102,11,50.0,False,Rejected
+Mary Barnett,Kathrynview,70730,364,24948,27,40.0,False,Rejected
+Traci Martinez,South Maria,102199,423,37075,18,50.0,False,Rejected
+Gregory Chavez,Port Teresaburgh,31792,707,34482,12,50.0,False,Rejected
+Michael Parsons,Lake Julie,102384,838,40382,9,85.0,True,Approved
+Kerry Williams,Amberhaven,83476,470,25541,10,45.0,False,Rejected
+Christopher Walters,Port Sarah,42217,455,36443,39,25.0,False,Rejected
+Dale Williams,Phillipshaven,59451,731,32230,29,60.0,True,Approved
+Nathan Evans,West Jeanetteport,140284,513,49068,39,50.0,False,Rejected
+Andrea Fischer,East Timothy,149659,464,16890,25,55.0,False,Rejected
+Maria Myers,East Mary,44871,372,15831,17,30.0,False,Rejected
+James Barber,East Scott,90482,582,22461,0,50.0,False,Rejected
+Kelly Warren,Hallmouth,45396,605,9183,34,50.0,False,Rejected
+Jordan Jones,Nancyton,114896,690,17741,7,75.0,True,Approved
+Jessica Jackson,Blakebury,139070,835,7753,5,95.0,True,Approved
+Miss Linda Cox DVM,Copelandchester,50181,731,4712,40,75.0,True,Approved
+Randy Kirby,Rebeccahaven,95323,636,28501,16,60.0,True,Approved
+Mrs. Ashley Shaffer,New Troy,123926,744,44622,17,85.0,True,Approved
+Richard Erickson,Obrienfurt,68254,343,40430,6,30.0,False,Rejected
+Rebecca Finley,North Tammybury,96698,669,39018,38,55.0,False,Rejected
+James Garner,Deborahmouth,122459,771,38574,33,85.0,True,Approved
+James Trujillo,Caldwelltown,65838,521,38154,11,35.0,False,Rejected
+Tracy Garcia,Phammouth,84459,559,24500,22,45.0,False,Rejected
+Vincent Hill,West Stephenview,139408,464,14721,35,55.0,False,Rejected
+Kimberly Morris,Mullinsburgh,93242,811,6824,21,95.0,True,Approved
+Joshua Trujillo,West Maria,91894,403,48313,5,35.0,False,Rejected
+Emily Crawford,Port Patrick,61946,571,47359,31,35.0,False,Rejected
+Robert Huang,East Marcus,89871,414,13438,37,50.0,False,Rejected
+Jonathan May,Katherineside,102255,482,27081,39,50.0,False,Rejected
+Christina Davis,Phelpsberg,48958,648,35919,22,40.0,False,Rejected
+Thomas Garcia,Christinaland,80277,631,15734,28,65.0,True,Approved
+Danielle Moore,Anthonybury,54983,524,17079,14,40.0,False,Rejected
+Robert Thomas,Johntown,108561,794,29767,26,85.0,True,Approved
+Yvette Lee,Port April,96616,709,42107,36,65.0,True,Approved
+Veronica Francis,Lindaview,127818,741,25263,23,90.0,True,Approved
+Taylor Flores,Chaseberg,145255,629,47034,15,65.0,True,Approved
+Lauren Davis,Nicholsville,47892,533,48192,22,25.0,False,Rejected
+Maria Spencer,South Joseph,143249,354,31162,39,55.0,False,Rejected
+Kevin Brown,North Ann,39150,358,23780,30,25.0,False,Rejected
+Brittany Fleming,Lake Joshuaview,66208,328,47767,38,35.0,False,Rejected
+Michael Bender DVM,Lake Shannon,131276,611,22661,14,70.0,True,Approved
+Sherri Shah,Port Amber,133547,622,1444,39,75.0,True,Approved
+Paul Matthews,New Brycechester,141989,465,49008,12,50.0,False,Rejected
+Kyle Blake,Port Howard,84387,806,48753,7,75.0,True,Approved
+Brandon Powell,Ballardfurt,74548,785,10077,21,80.0,True,Approved
+Eric Thompson,Kochfort,133247,392,13095,16,60.0,True,Approved
+Darrell Duke,West Shannonville,96550,836,17893,1,75.0,True,Approved
+Amy Hawkins,Codytown,65018,841,1824,0,75.0,True,Approved
+Eric Marsh,Micheleburgh,137551,493,42712,39,50.0,False,Rejected
+Mr. William Davis DDS,New Neil,30336,481,29881,11,25.0,False,Rejected
+Robin Wallace,New Pamelaville,67072,619,20099,6,50.0,False,Rejected
+Christopher Stone,South Jamesberg,125164,645,30797,35,70.0,True,Approved
+Rachel Raymond,West Johnberg,69132,545,33162,12,35.0,False,Rejected
+Amanda Brown,Cochranshire,139769,401,35068,5,45.0,False,Rejected
+Erica Rose,Shermanborough,106931,589,21992,8,65.0,True,Approved
+Craig Raymond,Powellfurt,106011,384,33143,1,35.0,False,Rejected
+Frank Webb MD,Gayport,116499,356,35573,2,40.0,False,Rejected
+Brandon Mcclain,Lake Lee,94178,349,36015,1,30.0,False,Rejected
+Eric Lopez,Port Marciachester,143411,820,35339,11,95.0,True,Approved
+Melanie Williams,North Stephen,49476,490,15520,20,30.0,False,Rejected
+Dalton Clark,North Sandraborough,88529,419,20034,0,35.0,False,Rejected
+Mary Herman,Traceyfurt,100592,533,25365,25,50.0,False,Rejected
+Charles Sanchez,Nicolechester,93483,617,14426,17,65.0,True,Approved
+Adam Colon,Ramirezborough,75236,799,17608,38,85.0,True,Approved
+Michael Williams,Andersonbury,73573,372,42785,7,30.0,False,Rejected
+Steven Freeman,New Mark,102340,562,45623,25,45.0,False,Rejected
+Dustin Foley,Danielville,129991,704,14246,5,75.0,True,Approved
+Kathleen Martinez,South Timothyville,101228,534,3492,24,60.0,True,Approved
+Phillip Drake,South Christina,79441,748,49388,9,70.0,True,Approved
+Randy Bates,Port Jason,89682,625,3867,36,70.0,True,Approved
+Christian Villarreal,Sandrastad,72176,773,14149,3,70.0,True,Approved
+Christian Carter,East Jackborough,143980,643,44123,28,65.0,True,Approved
+Jeremiah Bridges,Angelaberg,54727,625,4716,7,60.0,True,Approved
+Jennifer Ferguson,Lake Sarah,121422,679,3518,9,80.0,True,Approved
+Melinda Smith,New Brianfurt,61300,422,15714,40,40.0,False,Rejected
+Joshua Smith,Pinedafurt,104946,589,45932,39,60.0,True,Approved
+Thomas Young,Salazarstad,80196,765,32400,9,70.0,True,Approved
+Shawn Walker,Danaburgh,60613,697,17856,10,65.0,True,Approved
+Alex Trujillo,North Steve,142199,532,27360,8,50.0,False,Rejected
+Heather Mcmahon,Stephensonmouth,131652,763,30090,24,90.0,True,Approved
+George Ortega,Lake Alyssa,83841,551,15218,12,50.0,False,Rejected
+Tiffany Daniel,Rachelside,35720,718,25563,19,50.0,False,Rejected
+Charles Rodriguez,Evanschester,71704,352,14068,13,45.0,False,Rejected
+Steve Keller,Whitemouth,127609,324,46479,13,50.0,False,Rejected
+Michael Nelson,Lake Richard,91993,502,10875,26,50.0,False,Rejected
+David Rodgers,Stewarthaven,122435,336,45314,6,45.0,False,Rejected
+Angelica Smith,West Melissamouth,149725,665,14304,9,70.0,True,Approved
+Elizabeth Jones,Brandymouth,136352,786,23191,11,90.0,True,Approved
+Brian Hoffman,East Robert,79968,845,41520,26,80.0,True,Approved
+Juan Harrison,Hannahbury,80604,416,44507,9,35.0,False,Rejected
+Anne Williams,Kennedyfort,116991,474,2307,37,60.0,True,Approved
+Sabrina Galvan,South Patricia,133860,803,45024,36,90.0,True,Approved
+Gerald Miller,Caseyberg,137577,607,45392,25,65.0,True,Approved
+Ashley Donovan,Lake Malik,115461,385,24246,38,55.0,False,Rejected
+Mrs. Lisa Garza,West Melissa,49936,496,34647,17,25.0,False,Rejected
+Dr. Allison Flores,North Debra,94923,613,18243,28,65.0,True,Approved
+Gail Nelson DVM,Hopkinsmouth,34852,332,9562,39,30.0,False,Rejected
+Kenneth Turner,South Norman,46547,336,46566,17,25.0,False,Rejected
+Gabriela Pratt,Russellmouth,95836,435,23691,16,50.0,False,Rejected
+Katherine Adams,Sellersland,107356,626,34344,7,60.0,True,Approved
+Carl Gill,North Gregory,73515,366,11092,36,45.0,False,Rejected
+Peggy Shields,Lake Alexandermouth,143993,372,11239,37,60.0,True,Approved
+Shelby Murray,Kristiville,43154,424,4680,8,30.0,False,Rejected
+Paul Miller,Lake Stephanietown,144581,743,45931,14,85.0,True,Approved
+Mitchell Hughes,South Lisa,140761,807,40679,11,90.0,True,Approved
+Nicholas Vargas,South Jacksontown,87711,381,12524,12,50.0,False,Rejected
+Shawn Johnston,Lake David,43069,377,13333,11,30.0,False,Rejected
+Nicole Perez,Reidshire,98937,603,40423,26,55.0,False,Rejected
+Donna Simmons,Jillhaven,149333,307,43915,16,50.0,False,Rejected
+Christopher Brown,Cooperton,89890,740,6239,28,90.0,True,Approved
+Patrick Davis,Helenland,32011,568,48654,20,25.0,False,Rejected
+Patrick Castillo,Evansfort,124692,620,36777,12,65.0,True,Approved
+Christopher Vazquez,Marshallmouth,48894,632,27426,29,40.0,False,Rejected
+Julie Hernandez,Barnestown,83736,442,21756,24,45.0,False,Rejected
+Lynn Ross MD,East Brittany,144154,488,15220,6,50.0,False,Rejected
+John Nelson,North Tyler,115823,462,20891,35,55.0,False,Rejected
+Colton Lawson,Reynoldsburgh,50232,799,44633,3,60.0,True,Approved
+Brian Benton,Franklinberg,39807,540,34997,31,25.0,False,Rejected
+Christopher Mccoy,Carrberg,91537,842,19474,21,90.0,True,Approved
+Renee Shields,Annettefort,132436,364,2160,28,60.0,True,Approved
+David Blackburn,Port Rachel,64737,787,19384,35,75.0,True,Approved
+Riley Hale,West Kimberly,74375,534,47406,37,35.0,False,Rejected
+Robin Wright,Zamoramouth,111691,823,7264,24,100.0,True,Approved
+Loretta Miller,Fordview,120794,368,30457,24,50.0,False,Rejected
+Raven Hill,West Melanie,82098,360,32047,15,45.0,False,Rejected
+Aaron Kelly,Hoffmanview,115175,627,32765,20,65.0,True,Approved
+Kimberly Holloway,New Cassie,40527,602,49065,3,30.0,False,Rejected
+Chloe Lindsey,Johnfurt,141642,733,46917,0,60.0,True,Approved
+Dan Phillips,Lake Dawnchester,73065,380,25158,29,40.0,False,Rejected
+Wendy Griffin,Petersmouth,141718,621,8061,17,75.0,True,Approved
+Craig Obrien,Frankberg,118389,630,2111,7,70.0,True,Approved
+Gabriel Woods,West Marie,142635,684,37053,1,60.0,True,Approved
+Maria Foster,Christieton,99942,589,22234,36,65.0,True,Approved
+Michelle Crawford,East Edwardhaven,79808,467,47783,15,40.0,False,Rejected
+Isaac Kelly,South Matthewland,71505,804,27251,34,80.0,True,Approved
+Jason Clarke,New Mackenzie,112155,512,30392,10,50.0,False,Rejected
+Thomas Green,North Deanna,124203,324,4439,14,60.0,True,Approved
+Andrew Blake,Port Devin,146318,627,22164,24,70.0,True,Approved
+Meagan Smith,Travischester,129536,369,3629,12,60.0,True,Approved
+Christine Aguilar,West Jacquelineshire,93956,676,34367,10,70.0,True,Approved
+Christian Smith,Josephstad,144344,823,26455,10,95.0,True,Approved
+Nicole Scott,West Rachael,100912,702,8809,18,85.0,True,Approved
+Jeremy Faulkner,Harrisville,34705,342,26392,6,20.0,False,Rejected
+Shelly Gonzalez,Marissaborough,110931,610,24654,29,70.0,True,Approved
+Mark Knight,Jaytown,38968,617,1810,13,55.0,False,Rejected
+Shannon Clark,Cortezmouth,60771,700,40440,10,60.0,True,Approved
+Karen Carlson,North Christina,112727,300,3044,39,60.0,True,Approved
+Adam Hill,West Seanshire,119705,463,7372,3,50.0,False,Rejected
+Matthew Maddox,Charleschester,67667,322,20494,2,30.0,False,Rejected
+Elizabeth Baker,North Samantha,59817,331,32228,11,35.0,False,Rejected
+Brandon Young,Josephshire,127880,791,5147,9,90.0,True,Approved
+James Bennett,South Ryanmouth,41846,722,12470,0,40.0,False,Rejected
+Diana Campbell,Harrisview,86881,324,44990,17,40.0,False,Rejected
+Chelsea Norris,Lake Bradleyshire,42903,745,37630,31,60.0,True,Approved
+Michelle Newton,Michaelstad,129663,767,31964,34,90.0,True,Approved
+Matthew Watson,West Jill,113066,655,27673,11,70.0,True,Approved
+Jacqueline Lucero,Dylanfort,122260,717,24614,27,80.0,True,Approved
+David Taylor,Debbiemouth,144370,468,3802,21,60.0,True,Approved
+Shannon Weber,Amberburgh,43173,442,14488,25,30.0,False,Rejected
+Jason Rodriguez,New Daletown,88153,560,37074,10,40.0,False,Rejected
+Melinda French,Wilsonstad,51805,704,35283,25,60.0,True,Approved
+Gregory Russell,East Daniellemouth,120964,459,46478,12,50.0,False,Rejected
+Stephanie Costa,South Drewland,69251,613,16848,25,60.0,True,Approved
+Daniel Little,North Allen,148413,602,8934,13,75.0,True,Approved
+Ricardo Jones,Shaunville,33794,732,24430,25,50.0,False,Rejected
+Kyle Cooper,Jaredchester,36028,789,42629,39,60.0,True,Approved
+Meghan Rowland,Florestown,72516,561,46916,30,35.0,False,Rejected
+Janet Ryan,South Haleystad,134352,802,2790,24,100.0,True,Approved
+John Bullock,Kingland,37355,384,17081,40,25.0,False,Rejected
+Jordan Curry,New Tracey,68452,335,22159,19,40.0,False,Rejected
+Michele Hayes,Davisberg,76984,328,34180,28,40.0,False,Rejected
+Christopher Hill,Solisside,79131,349,17593,37,50.0,False,Rejected
+Jose Thompson,Carterburgh,86450,340,20024,38,50.0,False,Rejected
+Brian Moore,East Timothybury,49080,305,26382,11,25.0,False,Rejected
+Amanda White,Michelleshire,62007,805,15990,28,80.0,True,Approved
+Carlos Irwin,South Tylerchester,99621,321,47426,33,40.0,False,Rejected
+Isabella Stephens,Wellsview,84008,746,37522,27,75.0,True,Approved
+Brandon Rich,Thomashaven,104177,549,10012,7,55.0,False,Rejected
+Brandon Lopez,South Donna,119364,682,37527,16,75.0,True,Approved
+Wesley Douglas,Wilsonton,133877,537,14267,9,50.0,False,Rejected
+Paul Myers,Briantown,53600,415,35377,17,35.0,False,Rejected
+Alexa Beard,West Samantha,52280,791,14995,12,75.0,True,Approved
+Karen Lewis,South Angela,52946,372,10575,8,40.0,False,Rejected
+Brianna Hodges,Palmerland,40350,468,17191,40,25.0,False,Rejected
+Sara Ward,Port Jose,109887,361,29303,2,40.0,False,Rejected
+Phyllis Johnson,Peterbury,144142,430,32415,39,55.0,False,Rejected
+Katrina Russell,East Carol,80140,594,33580,4,45.0,False,Rejected
+Andre Jones,Lake Patriciaberg,111226,340,25216,17,55.0,False,Rejected
+John Roman,Kevinside,119539,634,21194,30,70.0,True,Approved
+Jasmin Pitts,South Matthew,61566,801,23440,34,80.0,True,Approved
+Lynn King,Sarahport,95230,825,15931,20,90.0,True,Approved
+Erika Allen,West Teresa,149646,496,22954,33,55.0,False,Rejected
+Diana Harper,Port Chloe,106435,442,46110,18,45.0,False,Rejected
+Michael Marquez,Jamesmouth,48758,832,12364,7,65.0,True,Approved
+Sherri Little,New Kristy,60433,645,12998,31,60.0,True,Approved
+Judy Peterson,Catherineview,90443,427,25678,35,45.0,False,Rejected
+Mrs. Chelsea Villa,Gibsonside,113611,583,34496,36,65.0,True,Approved
+Derek Jarvis,Larsonfort,63289,747,26354,20,70.0,True,Approved
+Christopher Ward,North Melanieview,90236,410,36945,34,40.0,False,Rejected
+Richard Frost,Harrisshire,63466,361,1645,7,45.0,False,Rejected
+Marcus Ramirez,Allenbury,117404,573,37216,22,50.0,False,Rejected
+Brittany Spencer,Kathrynburgh,31231,692,14313,34,50.0,False,Rejected
+Tiffany Davis,Lisaville,147821,397,17134,26,55.0,False,Rejected
+Joe Martin,East Joshua,135464,303,16648,19,55.0,False,Rejected
+Scott Atkinson,Lewisville,90981,383,27773,28,45.0,False,Rejected
+Patrick Cruz,Johnsonview,148123,510,45126,31,50.0,False,Rejected
+Shaun Peterson,South Williamfurt,67700,752,40751,13,70.0,True,Approved
+Michael Burke,Jacksonfurt,118815,512,15282,20,55.0,False,Rejected
+Donald Espinoza,South Caroline,101643,780,2590,36,95.0,True,Approved
+Michael Chavez,South Ashleystad,50706,690,2343,31,75.0,True,Approved
+Jeremy Coleman,Scottbury,39681,575,25025,16,25.0,False,Rejected
+Christopher Nash,Port Barry,87898,690,24892,3,60.0,True,Approved
+Ann Moon,New Heatherton,75293,556,6194,33,55.0,False,Rejected
+Jody Carter,Ramirezburgh,107014,534,27834,19,50.0,False,Rejected
+Austin Wiggins,New Diamondburgh,69210,595,36909,30,50.0,False,Rejected
+Stephanie Young,New Jennifer,113746,368,7652,17,60.0,True,Approved
+Philip Cummings,New Sarah,85615,551,1573,20,55.0,False,Rejected
+Pamela Palmer,New Williamton,120480,703,9844,10,85.0,True,Approved
+Christopher Anderson,Audreyview,62780,773,17108,29,75.0,True,Approved
+Brian Wright,North Tonyaberg,89878,300,19822,29,50.0,False,Rejected
+Katherine Webster,Onealmouth,140795,832,24195,38,95.0,True,Approved
+Sara Sullivan,Alexandrachester,69599,470,33974,31,35.0,False,Rejected
+Andrew Jones,Meaganville,56111,722,26072,24,60.0,True,Approved
+Alexander Freeman,East Ryanberg,80422,760,39694,8,70.0,True,Approved
+Elizabeth Sanchez,East Rebeccaview,141848,798,27164,29,90.0,True,Approved
+Jacqueline Harris,South Susan,93335,551,10537,40,50.0,False,Rejected
+Elizabeth Brown,Blankenshipchester,43979,379,40206,18,25.0,False,Rejected
+Jose Woods,Jonesmouth,61091,498,21338,32,40.0,False,Rejected
+Willie Thomas,Brianhaven,79986,523,42331,33,40.0,False,Rejected
+Jerry Cook,Reedmouth,104963,591,25115,3,60.0,True,Approved
+Laurie Stephenson,Hamiltonhaven,77049,337,44667,35,40.0,False,Rejected
+Lacey Jones,Port Nicholas,105341,750,48936,40,80.0,True,Approved
+Charles Herman,New Patrickfurt,68780,525,3745,2,40.0,False,Rejected
+Troy Lee,South Lauren,121655,455,28978,35,55.0,False,Rejected
+Wanda Clark,East Micheleview,68696,794,5331,14,85.0,True,Approved
+William Buckley,Wilsonmouth,32875,650,41422,23,40.0,False,Rejected
+Tina Scott,Crystalmouth,138794,839,11197,37,100.0,True,Approved
+Diana Wheeler,East Lisa,116275,744,32679,17,85.0,True,Approved
+Jordan Porter,Williamsshire,81879,607,17884,6,60.0,True,Approved
+Kristen Richard,East Steven,65976,456,7461,34,45.0,False,Rejected
+Jennifer Ross,Kerrybury,31061,466,41832,30,25.0,False,Rejected
+Mary Hampton,South Richardchester,104177,457,28146,30,50.0,False,Rejected
+Felicia Wood,Joefort,143386,705,39562,13,75.0,True,Approved
+Samuel Mitchell,West Erik,119889,634,39892,24,65.0,True,Approved
+Ashlee Miller,East Amberfort,132014,394,46703,9,45.0,False,Rejected
+April Thompson MD,Erikastad,127605,389,3649,10,60.0,True,Approved
+Erin Williams,North Christinaborough,36428,474,26615,31,25.0,False,Rejected
+Kevin Gilbert,Port Cheyenneberg,149356,366,31299,38,55.0,False,Rejected
+Brooke Parsons,South Catherineport,109482,332,26781,21,55.0,False,Rejected
+Melissa Patrick,Stephanieport,127671,600,43827,25,65.0,True,Approved
+Timothy Bauer,Elizabethborough,95107,546,31230,9,40.0,False,Rejected
+Brittany Bolton,East Jennifer,139161,589,22805,20,70.0,True,Approved
+Michelle Graham,Lake Elizabethside,148509,609,47472,13,65.0,True,Approved
+Mary Diaz,Leeland,148349,350,3056,16,60.0,True,Approved
+Robert Ford,Bowersmouth,67512,760,9709,20,80.0,True,Approved
+Michelle Barrett,North Misty,131677,468,17423,26,55.0,False,Rejected
+Shawn Cook,East Johnfort,134708,584,14255,11,70.0,True,Approved
+Randy Welch,Laurenstad,60162,645,1179,6,60.0,True,Approved
+Dr. Jonathan Clark,Erinhaven,109569,580,35791,25,65.0,True,Approved
+Wendy Salazar,South Kayla,135110,340,30815,37,55.0,False,Rejected
+Kimberly Campos,West Marvinchester,76179,364,32097,26,40.0,False,Rejected
+Suzanne Lynch,West Mary,58705,528,30443,16,35.0,False,Rejected
+Matthew Williams,Lake Rebecca,113442,560,26874,16,55.0,False,Rejected
+Daryl Walker,Allentown,54920,740,4130,4,75.0,True,Approved
+Denise Olsen,Smithport,111381,352,33547,37,50.0,False,Rejected
+Matthew Roberts,Port Jimmyfurt,62850,636,12615,34,60.0,True,Approved
+Alexis Jordan,Deborahfort,118835,321,7518,8,55.0,False,Rejected
+Monique Jackson,Emilychester,129035,465,28947,13,55.0,False,Rejected
+Heather Hubbard,Kyleside,124493,370,5995,9,55.0,False,Rejected
+Sarah Smith,North Kimberly,130593,576,12729,7,55.0,False,Rejected
+Gail Mason,Dixonfort,116400,584,6457,22,75.0,True,Approved
+Heather Hughes,New Sierra,119241,318,41654,5,45.0,False,Rejected
+Carla Peterson DDS,South Vickie,139882,659,2952,21,75.0,True,Approved
+Rebecca Reynolds,Lewisborough,47927,795,39427,4,50.0,False,Rejected
+Natasha Davenport,Grantmouth,112345,696,22116,23,80.0,True,Approved
+Andrew Chavez,New Michaelstad,42735,646,28232,0,25.0,False,Rejected
+Shannon Miller,New Abigailville,148410,439,32026,31,55.0,False,Rejected
+Kristen Juarez,New Lisamouth,112242,551,21451,34,55.0,False,Rejected
+Elaine Trevino,West Elizabethberg,114717,564,25876,9,50.0,False,Rejected
+Samuel Zavala,Charlesport,35167,607,27664,1,25.0,False,Rejected
+Dustin Lopez,Port Derrickhaven,70492,402,24758,7,35.0,False,Rejected
+Dennis Cook,East Barbarashire,133364,380,16172,3,45.0,False,Rejected
+Ryan Pierce,Port Jennifershire,87779,604,37199,19,55.0,False,Rejected
+Jamie Galvan,Samanthachester,34373,395,44115,21,25.0,False,Rejected
+Leah Rodriguez,Williamsstad,105965,715,36518,6,70.0,True,Approved
+Kevin Hoffman,North Matthew,77823,489,43499,36,40.0,False,Rejected
+Ashley Burnett,Robinsonberg,125991,473,49356,32,50.0,False,Rejected
+Jason Maldonado,Barbaraborough,47224,804,36885,15,65.0,True,Approved
+Daniel Estrada,Port Allison,41813,652,9926,25,50.0,False,Rejected
+Jennifer Lane,Johnville,149226,730,17711,38,80.0,True,Approved
+Dr. Jared Lee III,New Jack,68680,422,44976,15,35.0,False,Rejected
+Andrew Bolton,Lake Charlesfurt,72823,436,15295,17,45.0,False,Rejected
+Laura Pearson,Port Heatherchester,127973,409,23371,13,55.0,False,Rejected
+Charles Wong,Port Miguelchester,84460,687,44222,33,65.0,True,Approved
+Jill Harris,East Paul,53021,492,44637,15,35.0,False,Rejected
+Travis Kim III,Fordton,56318,361,31064,33,35.0,False,Rejected
+Jason Keith,West Joshua,47322,736,1902,30,65.0,True,Approved
+Kendra Willis,Kevinbury,133089,760,14167,17,90.0,True,Approved
+Tracey Nelson,Walkerberg,100701,317,16363,31,55.0,False,Rejected
+William Arnold,North Joseph,144879,679,35211,16,80.0,True,Approved
+Denise Barrett,Julietown,77953,364,38169,6,35.0,False,Rejected
+Douglas Pacheco,Lake Tyler,99579,841,1220,9,90.0,True,Approved
+Erin Norris,Bradleytown,95771,792,13675,11,85.0,True,Approved
+Eric Duran,Heatherview,149732,504,42212,25,50.0,False,Rejected
+Toni Cunningham,Codyfort,65720,500,17048,20,40.0,False,Rejected
+George Ruiz,New Mathew,138851,533,29234,35,55.0,False,Rejected
+Billy Cunningham,East Robert,51567,344,14432,29,40.0,False,Rejected
+Zachary Jones,Higginsbury,63681,519,15317,23,45.0,False,Rejected
+David Hull,Martinezview,149806,760,14702,5,90.0,True,Approved
+David Wilson,Kylieside,138093,546,3894,30,60.0,True,Approved
+Kimberly Sandoval,Port Tracyborough,93156,721,22675,6,70.0,True,Approved
+Kevin Buckley,Aaronstad,135708,665,30645,35,70.0,True,Approved
+Alyssa Davis,Lake Joshuaburgh,68684,460,16349,2,35.0,False,Rejected
+Christina Clark,West Steven,127853,760,15786,39,90.0,True,Approved
+Bruce Barr,West Courtney,144084,606,46007,27,65.0,True,Approved
+Arthur Santana,Grayburgh,74396,683,3302,34,75.0,True,Approved
+Ryan Fisher,Port Ericland,135412,457,28200,6,50.0,False,Rejected
+Michael Martin,Oliviaburgh,45095,845,44287,36,65.0,True,Approved
+Jerry Jackson,Ramirezview,91385,519,49065,1,25.0,False,Rejected
+Edward Barton,Hoshire,39869,418,46515,8,20.0,False,Rejected
+Crystal Graves,New Timothyshire,48449,438,4462,33,40.0,False,Rejected
+Shawn Lindsey,North William,128848,375,16826,34,55.0,False,Rejected
+Gina Medina,Joseside,59571,439,12685,2,35.0,False,Rejected
+Samuel Harris,Lake Daisy,142740,830,10687,39,100.0,True,Approved
+Javier Schultz,Lake Kathleenmouth,118647,468,45652,17,50.0,False,Rejected
+Gail Johnson MD,Port Elizabethtown,124924,331,6481,20,60.0,True,Approved
+Patrick Walsh,North Haileyfort,118395,400,29768,34,50.0,False,Rejected
+Amy Mccoy,Lake Edwardstad,82089,620,25841,7,55.0,False,Rejected
+Kathy Roberts,Joseland,140853,451,40344,36,50.0,False,Rejected
+Donna Boyd,East Gregoryport,135458,813,41740,2,80.0,True,Approved
+John Hunter,Johnsonton,103048,302,44387,16,45.0,False,Rejected
+Jamie Fields,West Jenniferview,77942,842,10827,25,90.0,True,Approved
+Bryce Gutierrez,Williammouth,41836,678,44340,3,40.0,False,Rejected
+Roberto Glover,Blairside,133636,340,41961,30,50.0,False,Rejected
+Daniel Ortiz,Montgomerytown,81717,838,13108,8,85.0,True,Approved
+Derek Williams,Port Peterhaven,31824,427,37424,33,25.0,False,Rejected
+Deborah Quinn,New Stacy,64663,810,17319,33,80.0,True,Approved
+Nathan Lopez,South Josephberg,100329,367,10273,25,55.0,False,Rejected
+Elizabeth Jackson,Rickeyburgh,46199,321,16906,26,30.0,False,Rejected
+Bianca Bowen,Lewisport,89609,557,6384,29,55.0,False,Rejected
+Samantha Carter,Moorestad,78311,597,3773,11,70.0,True,Approved
+Daryl Lowe,Amyburgh,118188,600,13561,1,55.0,False,Rejected
+Julie Parker,Michellehaven,128174,843,34109,1,75.0,True,Approved
+Monica Richardson,Port Toni,118125,639,48546,8,55.0,False,Rejected
+Ronald Brown,Benjaminton,64362,598,16651,13,55.0,False,Rejected
+Christine Hubbard,Jameshaven,106619,563,39477,20,50.0,False,Rejected
+Barbara Chandler,Port Curtis,79941,396,47616,38,40.0,False,Rejected
+John Johns,New Brandonborough,137795,546,39883,5,45.0,False,Rejected
+Christina Robinson,Schneiderbury,113695,340,27650,2,45.0,False,Rejected
+Tina Hull,Changmouth,78689,698,7246,29,80.0,True,Approved
+Shannon Maxwell,North Rhondaborough,44201,327,2926,37,40.0,False,Rejected
+Richard Rodriguez,Port Carla,118452,313,17016,24,55.0,False,Rejected
+Mark Jimenez,Mackenzieville,60647,725,1201,39,75.0,True,Approved
+Jenna Lynch,Denniston,91797,378,21396,38,50.0,False,Rejected
+Bryce Fox,Danielport,33280,531,16161,25,25.0,False,Rejected
+Grace Johnson,Port Wendy,111205,499,12180,10,55.0,False,Rejected
+Jerry Rogers,Jonesview,145898,337,46574,18,50.0,False,Rejected
+Joshua Shepard,Port Michaeltown,103584,645,16574,31,70.0,True,Approved
+Jessica Burch,New Heatherville,72992,431,28952,1,25.0,False,Rejected
+Terri Golden,New Nicolestad,149964,699,27072,38,80.0,True,Approved
+Seth Johnson,Lake Stanley,109964,628,49834,13,60.0,True,Approved
+Christopher Robinson,Michaelchester,59015,821,37063,11,75.0,True,Approved
+Brian Sims,Colemanside,114889,446,41709,13,50.0,False,Rejected
+Dr. Donna Mccarty,East Kevinside,38285,305,35590,28,25.0,False,Rejected
+Grace Young,South Brandon,113283,539,43279,23,50.0,False,Rejected
+Becky Garcia,Shannontown,137984,348,34252,23,55.0,False,Rejected
+Lauren Brown MD,North Jennifer,90852,763,17727,37,85.0,True,Approved
+Jennifer Harper,Wangshire,149195,684,44042,18,75.0,True,Approved
+Maria Malone,Davishaven,121891,602,10514,34,75.0,True,Approved
+Lauren Walsh,East Mark,69608,405,20294,1,25.0,False,Rejected
+Stacy Hudson,East Pamela,115097,410,13121,14,55.0,False,Rejected
+Charles Costa,Elliottton,83516,717,41777,1,50.0,False,Rejected
+Kara Sanders MD,Comptontown,45292,752,12397,13,65.0,True,Approved
+Tommy Ramsey,West Elizabeth,48320,670,43610,15,50.0,False,Rejected
+Kelly Sandoval,Port Loriport,35943,303,23589,26,25.0,False,Rejected
+Autumn Thomas,Petersonside,34877,450,27622,37,25.0,False,Rejected
+Kimberly Thomas,Claytonside,69893,691,38546,24,60.0,True,Approved
+Mark Mclean,North Anna,94569,736,7439,9,75.0,True,Approved
+Renee Edwards,Tinaville,45220,557,13585,17,30.0,False,Rejected
+Chase Matthews,Melissaview,42739,341,2930,10,40.0,False,Rejected
+Danny Smith,Burkefurt,60775,364,4614,7,45.0,False,Rejected
+Pamela Gordon,North Elizabethmouth,146294,326,4140,4,50.0,False,Rejected
+Anthony Wong,West Crystalland,100457,629,4560,29,75.0,True,Approved
+Christopher Soto,Port Brandi,47781,753,43078,26,60.0,True,Approved
+Amber Richardson,Josephfort,80940,751,30012,38,80.0,True,Approved
+Christopher Klein,Mcclurefurt,89459,721,45000,8,60.0,True,Approved
+Haley Peters,Lake Moniquefort,78629,693,4125,10,80.0,True,Approved
+Tara Jones,Andrewhaven,117881,846,18222,4,85.0,True,Approved
+Christina Chavez,East Stephaniemouth,127404,666,47852,10,65.0,True,Approved
+Thomas Morales,Stephensland,121289,775,1697,13,95.0,True,Approved
+Stephanie Martin,North Carrietown,100804,688,8380,14,85.0,True,Approved
+Cynthia Palmer,Davidfort,84935,653,25640,7,55.0,False,Rejected
+Jermaine Vance,Kurtshire,106983,350,48578,10,45.0,False,Rejected
+Erica Thomas,Carterton,127290,396,29256,17,55.0,False,Rejected
+Sandra Ross,East Rebeccafort,125236,825,12161,11,100.0,True,Approved
+Roy Fowler,Shannonshire,50253,849,12953,6,75.0,True,Approved
+Debbie Arias,Jacksonside,146052,648,49139,31,65.0,True,Approved
+Melissa Kim,Delacruzbury,84379,548,8535,32,50.0,False,Rejected
+Michael Flores,West Jeremymouth,115841,323,33297,37,50.0,False,Rejected
+Mallory Powell,South Timothyton,42978,712,33536,15,50.0,False,Rejected
+Kelly Aguirre,West Kathyfurt,139273,447,6528,10,60.0,True,Approved
+Mark Murphy,North Victoria,94139,674,1972,21,80.0,True,Approved
+Jillian Garcia,Richardberg,110694,374,35264,11,50.0,False,Rejected
+Kenneth Murphy,Novakton,83492,847,45686,17,80.0,True,Approved
+Marcus Weaver,East Davidton,66666,638,3222,38,65.0,True,Approved
+Crystal Wilkinson,Proctorview,34288,819,20127,8,60.0,True,Approved
+Larry Mathis,Lake Christopherstad,120476,762,42029,34,85.0,True,Approved
+Tonya Potter,Lake Dianaland,78566,665,12733,15,65.0,True,Approved
+Jennifer Myers,New Kayla,58477,491,2718,39,50.0,False,Rejected
+James Miller,Lake Courtneymouth,88115,806,41005,34,80.0,True,Approved
+Joshua Vincent MD,Wagnerberg,88287,432,21979,33,50.0,False,Rejected
+Kathleen Brady,Erintown,60947,708,43175,11,60.0,True,Approved
+Rebecca Wood,Nicolestad,142125,699,25965,39,80.0,True,Approved
+Jesus Johnson,East Joshuaside,77537,480,49920,21,40.0,False,Rejected
+Debra White,Murrayfurt,43022,500,10198,22,35.0,False,Rejected
+Lisa Lopez,Lake Stephanie,119873,845,49454,36,85.0,True,Approved
+Rachel Greer,Port Shelia,78147,405,23294,25,45.0,False,Rejected
+Bobby Becker,Jacobmouth,101364,794,12658,21,90.0,True,Approved
+Wayne Jackson,Port Heather,148187,651,35717,38,70.0,True,Approved
+Jacqueline Walker,New Jenniferstad,114518,674,2681,31,85.0,True,Approved
+Tina Herring,Alexismouth,77012,799,45571,18,75.0,True,Approved
+Courtney Lee,Lake Patriciashire,37936,376,8418,30,35.0,False,Rejected
+Carmen Gonzalez,Brandiview,82184,338,6636,23,55.0,False,Rejected
+Gabriel Murphy,East Jessicastad,66160,519,28491,30,35.0,False,Rejected
+Jillian Stewart,New Josephberg,54878,411,19578,5,35.0,False,Rejected
+Hector Bryant,Lake Brittanyfort,46011,361,40653,8,20.0,False,Rejected
+Adriana Ward,Port Willie,141153,656,27358,10,70.0,True,Approved
+Taylor Grant,Butlermouth,138028,818,28231,28,95.0,True,Approved
+Diana Huffman,South Janice,89600,822,23104,17,85.0,True,Approved
+Gina Chapman,Lauramouth,42015,594,12650,32,45.0,False,Rejected
+Tyler Lozano,Port Heathermouth,116870,326,9921,0,45.0,False,Rejected
+Amanda Solis,Danielleshire,57801,537,5767,15,50.0,False,Rejected
+Shawn Ware,Port Markmouth,114109,370,14654,0,40.0,False,Rejected
+John Boyd,Petersburgh,113819,402,19606,19,55.0,False,Rejected
+Joseph Jensen,Willisfort,108269,447,33740,14,50.0,False,Rejected
+Steven Mccormick,Dawnberg,32799,306,9502,23,30.0,False,Rejected
+Victoria Padilla,Keithland,36629,838,15315,11,65.0,True,Approved
+Rhonda Rodriguez,East Mary,133126,429,14119,38,55.0,False,Rejected
+Ryan Smith,Claireton,73713,686,49384,0,45.0,False,Rejected
+Kelly Perry,Mooreside,61925,774,23610,1,60.0,True,Approved
+Pamela Powell,Lake Stephenburgh,46505,658,32462,29,40.0,False,Rejected
+Paul Cox,Timothyfurt,133150,458,38435,2,40.0,False,Rejected
+Luke Dixon,Reyesside,104000,546,48812,6,40.0,False,Rejected
+Joshua White,Hornefort,56896,479,5149,29,50.0,False,Rejected
+Christina Cobb,New Diana,38992,490,2918,20,40.0,False,Rejected
+Christopher Moses,Lake Robert,138765,475,7606,27,60.0,True,Approved
+Mary Richards,Joelside,130290,447,16496,10,55.0,False,Rejected
+Jack Brandt,West Angela,102641,615,18483,26,70.0,True,Approved
+Nathaniel Ford,Robinsonfurt,57152,596,17196,1,40.0,False,Rejected
+Debbie King,Carrville,106858,484,30283,38,50.0,False,Rejected
+Shannon Gonzales,New Grant,58305,371,11622,3,35.0,False,Rejected
+Melvin Carlson,Higginsborough,136568,802,47394,20,90.0,True,Approved
+Trevor Bautista,East Edward,143992,400,9828,23,60.0,True,Approved
+Richard Roy,East Benjamin,60539,345,18387,35,40.0,False,Rejected
+Robert Parks MD,Baileyborough,73064,681,44735,32,60.0,True,Approved
+David Nichols,Port Maryton,131498,506,2136,17,60.0,True,Approved
+Cynthia Hughes,Port Ashleyshire,49340,628,8174,29,50.0,False,Rejected
+Russell Martin,Port Jessica,133369,395,2496,9,55.0,False,Rejected
+Carol Mcintosh,Elizabethland,148034,610,14031,30,75.0,True,Approved
+Sean Dixon,New Madelinetown,108116,725,31808,5,70.0,True,Approved
+Kevin Davis,East Raymondberg,30371,455,8573,13,30.0,False,Rejected
+Sean Bradshaw,Ortizberg,66342,354,8547,38,45.0,False,Rejected
+Megan Wilson,Powellberg,142513,485,3742,7,55.0,False,Rejected
+Amanda Taylor,Dorothyhaven,48964,748,17297,12,65.0,True,Approved
+Nicole Lewis,Ashleychester,47038,689,23106,13,50.0,False,Rejected
+Mary Gibson,Kimberlyville,100807,453,19484,11,55.0,False,Rejected
+Duane Clarke,Garrettberg,62853,645,1572,36,65.0,True,Approved
+Vicki Hernandez,Nicholastown,134662,498,46916,23,50.0,False,Rejected
+Hannah James PhD,Port Sarahshire,52871,653,9401,37,60.0,True,Approved
+Alan Davis DVM,East Joshuachester,44408,667,37024,20,40.0,False,Rejected
+Jasmine Farmer,East Meghan,116646,565,5911,9,55.0,False,Rejected
+William Conrad,Martinezburgh,143567,790,16126,35,90.0,True,Approved
+Antonio George Jr.,South Ronaldshire,33379,322,28023,14,25.0,False,Rejected
+Scott Schmidt,West Luisburgh,47275,307,15538,18,30.0,False,Rejected
+Anthony Smith,Rebeccafurt,31947,808,37990,40,65.0,True,Approved
+Jay Buchanan,West Scottstad,76955,680,19680,27,70.0,True,Approved
+Theresa King,East Maryview,133544,772,29454,0,75.0,True,Approved
+Justin Hammond,North Jaredchester,133341,535,7578,28,60.0,True,Approved
+Phillip Davis,South Zachary,61186,313,34872,6,30.0,False,Rejected
+Meagan West,New Anthony,107182,410,23460,3,45.0,False,Rejected
+Craig Williams,Garciaton,72437,773,47702,14,70.0,True,Approved
+Wayne Hess,Michaelhaven,32068,582,33245,19,40.0,False,Rejected
+James Wilson,North Andre,52838,745,12909,22,80.0,True,Approved
+Kelsey Kelly,Warnerview,64782,808,2945,13,90.0,True,Approved
+Aaron Gonzalez,New Richard,36868,750,17660,27,60.0,True,Approved
+Jessica Hernandez,Brendahaven,46614,546,10058,30,35.0,False,Rejected
+Anthony Adams,Colemanport,127218,638,42080,37,65.0,True,Approved
+Barry Wilson,Chapmanmouth,85176,427,17535,2,40.0,False,Rejected
+Matthew Richards,Port Jenniferview,98955,303,21646,15,50.0,False,Rejected
+Michelle Stewart,North Jonathan,44896,813,3483,37,80.0,True,Approved
+Ronald Underwood,Loganhaven,127735,804,42869,14,90.0,True,Approved
+Christina Garza,Port Robertside,38330,599,7688,26,50.0,False,Rejected
+Tina Hernandez,Mitchellton,92422,796,32450,36,80.0,True,Approved
+David Thompson,Samuelborough,88756,827,44891,37,80.0,True,Approved
+Lauren Barr,Romanland,131976,570,11822,27,60.0,True,Approved
+Anthony Murray,North Christopher,77453,356,11378,1,35.0,False,Rejected
+Mary Green,East Mikeshire,97271,825,40024,32,80.0,True,Approved
+Penny West,North Christopher,107812,755,2468,34,95.0,True,Approved
+Laurie Roberts,Port Loriland,44293,708,18041,19,50.0,False,Rejected
+Caitlyn Martinez,Alejandrabury,89245,750,34216,23,80.0,True,Approved
+Adam Thompson,West Amberchester,96039,785,21984,30,85.0,True,Approved
+Sandra White,South Anna,59038,606,40038,25,50.0,False,Rejected
+Matthew Miller,New Patricia,110623,576,11836,38,55.0,False,Rejected
+Kristin Wagner,Barberfurt,35683,788,44554,40,60.0,True,Approved
+Andrew Gomez,West Rebeccaland,125321,733,8372,22,85.0,True,Approved
+Johnny Arnold,East Tony,132659,529,22843,24,55.0,False,Rejected
+Richard Stevens,Whiteton,149111,731,47006,40,75.0,True,Approved
+Leonard Reyes,Lake Joseph,143636,739,2679,17,85.0,True,Approved
+Erik Brown,East Annville,116363,695,10328,10,85.0,True,Approved
+Mrs. Olivia Petersen,Hillside,98347,428,1022,32,55.0,False,Rejected
+Toni Osborne,Amandaside,69535,813,15939,39,85.0,True,Approved
+Jeffrey Mercer,Mendozahaven,90036,755,40448,36,75.0,True,Approved
+Alex Whitaker,West Charlesville,114323,554,24445,38,55.0,False,Rejected
+Carla Hoover,Lake Richard,34082,538,14981,30,25.0,False,Rejected
+Stephanie Peterson,North Samantha,37972,628,37457,32,40.0,False,Rejected
+Gary Greer,East Michaelview,92781,609,33479,9,55.0,False,Rejected
+Luis Patterson,Port Jamesport,141057,580,2851,36,75.0,True,Approved
+Ryan Harrison,Mosleyland,82640,828,9308,16,90.0,True,Approved
+Laura Payne,New Ambertown,85872,710,31259,35,70.0,True,Approved
+Devon Ramos,Blackville,119928,531,22394,39,55.0,False,Rejected
+Jay Alvarado,Lake Theresa,44150,705,46644,39,50.0,False,Rejected
+Emily Hunter,Haleyland,94260,635,23300,37,65.0,True,Approved
+Erik Keller,North Christinaburgh,123375,359,46052,30,50.0,False,Rejected
+Danielle Mcfarland DVM,West Danielfort,149236,380,28687,3,45.0,False,Rejected
+Kyle Mullins,Clarkmouth,88138,554,27921,8,40.0,False,Rejected
+Kerry Murphy,South Toddton,39632,325,39936,36,25.0,False,Rejected
+Chad Moreno,Haroldport,147868,685,25578,17,80.0,True,Approved
+Natalie Hawkins,Reynoldschester,40589,351,22422,27,25.0,False,Rejected
+Adrian Gibbs,Leroystad,72219,801,30038,21,75.0,True,Approved
+Alyssa Hayes,Kaylabury,109730,496,34188,38,50.0,False,Rejected
+Carlos Vincent,Jonathanfurt,49442,690,9572,40,60.0,True,Approved
+Jason Haynes,North Randymouth,38609,655,16001,3,30.0,False,Rejected
+Timothy Coleman,North Gregory,46540,601,12864,28,45.0,False,Rejected
+Stanley Benson,Collinsberg,66046,623,41191,4,40.0,False,Rejected
+Brian Thompson,North Nathanhaven,111830,557,35957,33,50.0,False,Rejected
+Wendy Smith,North Thomashaven,112978,705,32535,31,75.0,True,Approved
+Bethany Baxter MD,Scotttown,106724,579,30236,8,45.0,False,Rejected
+Jennifer Baker MD,Jonesville,101874,468,4504,13,60.0,True,Approved
+Crystal Wolf,Petersonchester,123343,654,46641,37,65.0,True,Approved
+Sharon Patel,Spencerburgh,72622,677,18349,32,65.0,True,Approved
+Carl Powers,New Mark,79925,559,24725,17,45.0,False,Rejected
+Michael Patterson,Deniseport,108301,778,23186,9,85.0,True,Approved
+Sarah Jones,East Eric,99541,758,19708,34,85.0,True,Approved
+Nancy Rowland,South Samuelfurt,68652,511,16918,18,45.0,False,Rejected
+Meghan Jackson,North James,89469,688,45897,10,65.0,True,Approved
+Stephanie Gomez,Lake Amyland,96263,696,17183,2,65.0,True,Approved
+Miguel Lee,Lynchbury,109354,632,48132,34,60.0,True,Approved
+Brianna Hanson,West Melanie,86387,612,1774,2,60.0,True,Approved
+Sharon French,New Cesarfurt,42999,751,32075,32,60.0,True,Approved
+Taylor Kirby,Vanessaview,133952,560,17671,23,55.0,False,Rejected
+Jeffrey Petersen,Port Amanda,121983,670,46117,4,65.0,True,Approved
+Manuel Cole,North Darlenemouth,44996,546,43182,38,25.0,False,Rejected
+Joshua Horne,Morganfurt,141777,735,39425,33,75.0,True,Approved
+Brittney Tanner,West Victoriamouth,115814,792,38930,8,80.0,True,Approved
+Ashley Franco,West Nicholas,115316,337,6868,38,60.0,True,Approved
+Tracey Page,West David,145042,508,37486,14,50.0,False,Rejected
+Carla Young,East Theresaside,130789,811,2971,25,100.0,True,Approved
+Brooke Keith,East Zachary,102264,827,4235,36,100.0,True,Approved
+Christy Thomas,Port Darylburgh,124481,535,12516,0,40.0,False,Rejected
+Michael Cruz,Grayton,143441,330,34287,40,55.0,False,Rejected
+Shawna Gillespie,Espinozaville,58183,311,36896,5,30.0,False,Rejected
+Chelsey Reyes,West Bryanbury,86370,596,21927,15,60.0,True,Approved
+Angela Dixon,Port Timothychester,89186,441,13778,20,50.0,False,Rejected
+Sean Chapman,North Adamtown,146403,768,27494,11,90.0,True,Approved
+Robert Ramirez,Stephanieshire,59949,688,29674,4,50.0,False,Rejected
+Steven Price,Christophertown,84239,702,25311,19,70.0,True,Approved
+Michelle Padilla,West Aaron,74424,757,36497,20,70.0,True,Approved
+Lucas Nielsen,Kelseyfort,138451,342,35261,39,50.0,False,Rejected
+Raymond Wolf,Barnesborough,89441,601,37304,9,50.0,False,Rejected
+Nicholas Cunningham,Mooremouth,82262,315,35600,14,40.0,False,Rejected
+Kristin Meyer,South Allisonfort,84524,374,24860,1,30.0,False,Rejected
+Kevin White,Anthonyshire,125631,765,25710,1,75.0,True,Approved
+Cynthia Johnson,East Ryanstad,42463,765,42357,33,60.0,True,Approved
+Sandra Lopez,West Tiffanyside,70966,305,38462,23,35.0,False,Rejected
+Teresa Bowers,Matthewmouth,85936,420,31183,31,45.0,False,Rejected
+Michael Lambert,South Kenneth,70963,489,5890,6,45.0,False,Rejected
+Rebecca Newman,West Christopher,117177,712,10028,27,85.0,True,Approved
+Christopher Morrison,Cookshire,63408,376,30443,3,25.0,False,Rejected
+Sierra Gentry,Jenniferstad,79060,572,9643,6,45.0,False,Rejected
+Hannah Carter,Basston,50006,626,29515,32,50.0,False,Rejected
+Ryan Thomas,Tylertown,120023,318,49124,3,35.0,False,Rejected
+James Schaefer,Robertton,92163,770,12251,13,85.0,True,Approved
+Diana Lin,New Frank,38799,635,48259,17,40.0,False,Rejected
+Brandon Meyer,East Haley,41957,763,16752,5,60.0,True,Approved
+Jason Price,Adamland,139022,360,24031,35,55.0,False,Rejected
+Nicole Brown,New Nathantown,41188,482,31397,6,20.0,False,Rejected
